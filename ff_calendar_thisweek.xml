@@ -2,7 +2,7 @@
 	<event>
 		<title>Commodity Prices y/y</title>
 		<currency>![CDATA[AUD]]</currency>
-		<date>![CDATA[01-02-2023]]</date>
+		<date>01-02-2023</date>
 		<time>![CDATA[12:30am]]</time>
 		<forecast>![CDATA[]]</forecast>
 		<previous>![CDATA[14.1%]]</previous>
