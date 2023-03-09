@@ -1,48 +1,3665 @@
-<?xml version="1.0" encoding="windows-1252"?><monthlyevents>
-	
-	
-
-	
+<?xml version="1.0" encoding="windows-1252"?><monthlyevents><monthlyevents>
 	<event>
-		
-		
-		<title>Commodity Prices y/y</title>
-		
-		
-		<currency>&lt;![CDATA[AUD]]&gt;</currency>
-		
-		
-		<date>&lt;![CDATA[01-02-2023]]&gt;</date>
-		
-		
-		<time>&lt;![CDATA[12:30am]]&gt;</time>
-		
-		
-		<forecast>&lt;![CDATA[]]&gt;</forecast>
-		
-		
-		<previous>&lt;![CDATA[14.1%]]&gt;</previous>
-		
-		
-		<impact>&lt;![CDATA[Low]]&gt;</impact>
-		
-		
-		<description>&lt;![CDATA[]]&gt;</description>
-		
-	
+		<title>Final Manufacturing PMI</title>
+		<currency>GBP</currency>
+		<date>01-03-2023</date>
+		<time>4:30am</time>
+		<forecast>49.2</forecast>
+		<previous>49.2</previous>
+		<impact>Low</impact>
+		<description></description>
 	</event>
-	
-	
 	<event>
-		
-		
+		<title>M4 Money Supply m/m</title>
+		<currency>GBP</currency>
+		<date>01-03-2023</date>
+		<time>4:30am</time>
+		<forecast>-0.9%</forecast>
+		<previous>-0.8%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Mortgage Approvals</title>
+		<currency>GBP</currency>
+		<date>01-03-2023</date>
+		<time>4:30am</time>
+		<forecast>37K</forecast>
+		<previous>36K</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Net Lending to Individuals m/m</title>
+		<currency>GBP</currency>
+		<date>01-03-2023</date>
+		<time>4:30am</time>
+		<forecast>4.6B</forecast>
+		<previous>3.7B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Buba President Nagel Speaks</title>
+		<currency>EUR</currency>
+		<date>01-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BOE Gov Bailey Speaks</title>
+		<currency>GBP</currency>
+		<date>01-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>As the head of the Bank of England, the Governor's speeches can be influential in shaping market expectations and sentiment, particularly on matters related to monetary policy and interest rates. During these speeches, the Governor may discuss the BOE's economic outlook, provide insights into future policy decisions, or comment on recent economic developments.</description>
+	</event>
+	<event>
+		<title>FOMC Member Kashkari Speaks</title>
+		<currency>USD</currency>
+		<date>01-03-2023</date>
+		<time>9:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<currency>CAD</currency>
+		<date>01-03-2023</date>
+		<time>9:30am</time>
+		<forecast></forecast>
+		<previous>51.0</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<currency>USD</currency>
+		<date>01-03-2023</date>
+		<time>9:45am</time>
+		<forecast>47.8</forecast>
+		<previous>47.8</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ISM Manufacturing PMI</title>
+		<currency>USD</currency>
+		<date>01-03-2023</date>
+		<time>10:00am</time>
+		<forecast>47.9</forecast>
+		<previous>47.4</previous>
+		<impact>High</impact>
+		<description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+	</event>
+	<event>
+		<title>Construction Spending m/m</title>
+		<currency>USD</currency>
+		<date>01-03-2023</date>
+		<time>10:00am</time>
+		<forecast>0.2%</forecast>
+		<previous>-0.4%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ISM Manufacturing Prices</title>
+		<currency>USD</currency>
+		<date>01-03-2023</date>
+		<time>10:00am</time>
+		<forecast>46.4</forecast>
+		<previous>44.5</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Wards Total Vehicle Sales</title>
+		<currency>USD</currency>
+		<date>01-03-2023</date>
+		<time>All Day</time>
+		<forecast>14.7M</forecast>
+		<previous>15.7M</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<currency>USD</currency>
+		<date>01-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous>7.6M</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Overseas Trade Index q/q</title>
+		<currency>NZD</currency>
+		<date>01-03-2023</date>
+		<time>4:45pm</time>
+		<forecast>-1.7%</forecast>
+		<previous>-3.4%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Capital Spending q/y</title>
+		<currency>JPY</currency>
+		<date>01-03-2023</date>
+		<time>6:50pm</time>
+		<forecast>7.2%</forecast>
+		<previous>9.8%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Monetary Base y/y</title>
+		<currency>JPY</currency>
+		<date>01-03-2023</date>
+		<time>6:50pm</time>
+		<forecast>-3.2%</forecast>
+		<previous>-3.8%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Building Approvals m/m</title>
+		<currency>AUD</currency>
+		<date>01-03-2023</date>
+		<time>7:30pm</time>
+		<forecast>-7.1%</forecast>
+		<previous>18.5%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<currency>JPY</currency>
+		<date>01-03-2023</date>
+		<time>10:35pm</time>
+		<forecast></forecast>
+		<previous>0.49|4.6</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Consumer Confidence</title>
+		<currency>JPY</currency>
+		<date>02-03-2023</date>
+		<time>12:00am</time>
+		<forecast>32.0</forecast>
+		<previous>31.0</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Gov Budget Balance</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>2:45am</time>
+		<forecast></forecast>
+		<previous>-151.5B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Spanish Unemployment Change</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>3:00am</time>
+		<forecast>11.5K</forecast>
+		<previous>70.7K</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Monthly Unemployment Rate</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>4:00am</time>
+		<forecast>7.8%</forecast>
+		<previous>7.8%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CPI Flash Estimate y/y</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>5:00am</time>
+		<forecast>8.3%</forecast>
+		<previous>8.6%</previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Core CPI Flash Estimate y/y</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>5:00am</time>
+		<forecast>5.3%</forecast>
+		<previous>5.3%</previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Prelim CPI m/m</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>5:00am</time>
+		<forecast>0.2%</forecast>
+		<previous>0.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>5:00am</time>
+		<forecast>6.6%</forecast>
+		<previous>6.6%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Spanish 10-y Bond Auction</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous>3.40|1.8</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French 10-y Bond Auction</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous>2.68|2.1</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ECB Monetary Policy Meeting Accounts</title>
+		<currency>EUR</currency>
+		<date>02-03-2023</date>
+		<time>7:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<currency>USD</currency>
+		<date>02-03-2023</date>
+		<time>8:30am</time>
+		<forecast>196K</forecast>
+		<previous>192K</previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Revised Nonfarm Productivity q/q</title>
+		<currency>USD</currency>
+		<date>02-03-2023</date>
+		<time>8:30am</time>
+		<forecast>2.5%</forecast>
+		<previous>3.0%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Revised Unit Labor Costs q/q</title>
+		<currency>USD</currency>
+		<date>02-03-2023</date>
+		<time>8:30am</time>
+		<forecast>1.6%</forecast>
+		<previous>1.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>MPC Member Pill Speaks</title>
+		<currency>GBP</currency>
+		<date>02-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<currency>USD</currency>
+		<date>02-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous>-71B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>RBNZ Gov Orr Speaks</title>
+		<currency>NZD</currency>
+		<date>02-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>As the head of the Reserve Bank of New Zealand, the Governor's speeches can be influential in shaping market expectations and sentiment, particularly on matters related to monetary policy and interest rates. During these speeches, the Governor may discuss the RBNZ's economic outlook, provide insights into future policy decisions, or comment on recent economic developments.</description>
+	</event>
+	<event>
+		<title>FOMC Member Waller Speaks</title>
+		<currency>USD</currency>
+		<date>02-03-2023</date>
+		<time>4:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>FOMC Member Kashkari Speaks</title>
+		<currency>USD</currency>
+		<date>02-03-2023</date>
+		<time>6:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Tokyo Core CPI y/y</title>
+		<currency>JPY</currency>
+		<date>02-03-2023</date>
+		<time>6:30pm</time>
+		<forecast>3.3%</forecast>
+		<previous>4.3%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>JPY</currency>
+		<date>02-03-2023</date>
+		<time>6:30pm</time>
+		<forecast>2.5%</forecast>
+		<previous>2.5%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Caixin Services PMI</title>
+		<currency>CNY</currency>
+		<date>02-03-2023</date>
+		<time>8:45pm</time>
+		<forecast>54.0</forecast>
+		<previous>52.9</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Trade Balance</title>
+		<currency>EUR</currency>
+		<date>03-03-2023</date>
+		<time>2:00am</time>
+		<forecast>11.2B</forecast>
+		<previous>10.0B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Industrial Production m/m</title>
+		<currency>EUR</currency>
+		<date>03-03-2023</date>
+		<time>2:45am</time>
+		<forecast>-0.2</forecast>
+		<previous>1.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Spanish Services PMI</title>
+		<currency>EUR</currency>
+		<date>03-03-2023</date>
+		<time>3:15am</time>
+		<forecast>53.8</forecast>
+		<previous>52.7</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Services PMI</title>
+		<currency>EUR</currency>
+		<date>03-03-2023</date>
+		<time>3:45am</time>
+		<forecast>52.4</forecast>
+		<previous>51.2</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Final Services PMI</title>
+		<currency>EUR</currency>
+		<date>03-03-2023</date>
+		<time>3:50am</time>
+		<forecast>52.8</forecast>
+		<previous>52.8</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Final Services PMI</title>
+		<currency>EUR</currency>
+		<date>03-03-2023</date>
+		<time>3:55am</time>
+		<forecast>51.3</forecast>
+		<previous>51.3</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final Services PMI</title>
+		<currency>EUR</currency>
+		<date>03-03-2023</date>
+		<time>4:00am</time>
+		<forecast>53.0</forecast>
+		<previous>53.0</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final Services PMI</title>
+		<currency>GBP</currency>
+		<date>03-03-2023</date>
+		<time>4:30am</time>
+		<forecast>53.3</forecast>
+		<previous>53.3</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>PPI m/m</title>
+		<currency>EUR</currency>
+		<date>03-03-2023</date>
+		<time>5:00am</time>
+		<forecast>-0.3%</forecast>
+		<previous>1.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Building Permits m/m</title>
+		<currency>CAD</currency>
+		<date>03-03-2023</date>
+		<time>8:30am</time>
+		<forecast>0.9%</forecast>
+		<previous>-7.3%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Labor Productivity q/q</title>
+		<currency>CAD</currency>
+		<date>03-03-2023</date>
+		<time>8:30am</time>
+		<forecast>0.2%</forecast>
+		<previous>0.6%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final Services PMI</title>
+		<currency>USD</currency>
+		<date>03-03-2023</date>
+		<time>9:45am</time>
+		<forecast>50.5</forecast>
+		<previous>50.5</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ISM Services PMI</title>
+		<currency>USD</currency>
+		<date>03-03-2023</date>
+		<time>10:00am</time>
+		<forecast>54.6</forecast>
+		<previous>55.2</previous>
+		<impact>High</impact>
+		<description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+	</event>
+	<event>
+		<title>FOMC Member Logan Speaks</title>
+		<currency>USD</currency>
+		<date>03-03-2023</date>
+		<time>11:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Fed Monetary Policy Report</title>
+		<currency>USD</currency>
+		<date>03-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title/>
+		<currency></currency>
+		<date>04-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact></impact>
+		<description></description>
+	</event>
+	<event>
+		<title>MI Inflation Gauge m/m</title>
+		<currency>AUD</currency>
+		<date>05-03-2023</date>
+		<time>7:00pm</time>
+		<forecast></forecast>
+		<previous>0.9%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ANZ Commodity Prices m/m</title>
+		<currency>NZD</currency>
+		<date>05-03-2023</date>
+		<time>7:00pm</time>
+		<forecast></forecast>
+		<previous>-1.0%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ANZ Job Advertisements m/m</title>
+		<currency>AUD</currency>
+		<date>05-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<currency>CNY</currency>
+		<date>05-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>USD-Denominated Trade Balance</title>
+		<currency>CNY</currency>
+		<date>05-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CPI m/m</title>
+		<currency>CHF</currency>
+		<date>06-03-2023</date>
+		<time>2:30am</time>
+		<forecast></forecast>
+		<previous>0.6%</previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>Sentix Investor Confidence</title>
+		<currency>EUR</currency>
+		<date>06-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous>-8.0</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Construction PMI</title>
+		<currency>GBP</currency>
+		<date>06-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous>48.4</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<currency>EUR</currency>
+		<date>06-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous>-2.7%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Ivey PMI</title>
+		<currency>CAD</currency>
+		<date>06-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous>60.1</previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Factory Orders m/m</title>
+		<currency>USD</currency>
+		<date>06-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous>1.8%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Average Cash Earnings y/y</title>
+		<currency>JPY</currency>
+		<date>06-03-2023</date>
+		<time>6:30pm</time>
+		<forecast></forecast>
+		<previous>4.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Household Spending y/y</title>
+		<currency>JPY</currency>
+		<date>06-03-2023</date>
+		<time>6:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BRC Retail Sales Monitor y/y</title>
+		<currency>GBP</currency>
+		<date>06-03-2023</date>
+		<time>7:01pm</time>
+		<forecast></forecast>
+		<previous>3.9%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<currency>AUD</currency>
+		<date>06-03-2023</date>
+		<time>7:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<currency>AUD</currency>
+		<date>06-03-2023</date>
+		<time>7:30pm</time>
+		<forecast></forecast>
+		<previous>12.24B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Cash Rate</title>
+		<currency>AUD</currency>
+		<date>06-03-2023</date>
+		<time>10:30pm</time>
+		<forecast></forecast>
+		<previous>3.35%</previous>
+		<impact>High</impact>
+		<description>The cash rate is the interest rate at which banks can borrow or lend funds on an overnight basis with the central bank. In many countries the Reserve Bank is responsible for setting the cash rate. Changes in the cash rate can have significant impacts on the economy and the financial markets.</description>
+	</event>
+	<event>
+		<title>RBA Rate Statement</title>
+		<currency>AUD</currency>
+		<date>06-03-2023</date>
+		<time>10:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The RBA Rate Statement is a regular announcement released by the Reserve Bank of Australia following its monthly monetary policy meeting. The statement provides an overview of the bank's decision regarding the official cash rate, which is the interest rate that banks pay to borrow money from the RBA.</description>
+	</event>
+	<event>
+		<title>30-y Bond Auction</title>
+		<currency>JPY</currency>
+		<date>06-03-2023</date>
+		<time>10:35pm</time>
+		<forecast></forecast>
+		<previous>1.54|3.3</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>CHF</currency>
+		<date>07-03-2023</date>
+		<time>1:45am</time>
+		<forecast></forecast>
+		<previous>1.9%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Factory Orders m/m</title>
+		<currency>EUR</currency>
+		<date>07-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous>3.2%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Halifax HPI m/m</title>
+		<currency>GBP</currency>
+		<date>07-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Trade Balance</title>
+		<currency>EUR</currency>
+		<date>07-03-2023</date>
+		<time>2:45am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Foreign Currency Reserves</title>
+		<currency>CHF</currency>
+		<date>07-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous>784B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>30-y Bond Auction</title>
+		<currency>GBP</currency>
+		<date>07-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final Wholesale Inventories m/m</title>
+		<currency>USD</currency>
+		<date>07-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>IBD/TIPP Economic Optimism</title>
+		<currency>USD</currency>
+		<date>07-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous>45.1</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>GDT Price Index</title>
+		<currency>NZD</currency>
+		<date>07-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous>-1.5%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Consumer Credit m/m</title>
+		<currency>USD</currency>
+		<date>07-03-2023</date>
+		<time>3:00pm</time>
+		<forecast></forecast>
+		<previous>11.6B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Bank Lending y/y</title>
+		<currency>JPY</currency>
+		<date>07-03-2023</date>
+		<time>6:50pm</time>
+		<forecast></forecast>
+		<previous>3.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Current Account</title>
+		<currency>JPY</currency>
+		<date>07-03-2023</date>
+		<time>6:50pm</time>
+		<forecast></forecast>
+		<previous>1.18T</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Monetary Policy Statement</title>
+		<currency>JPY</currency>
+		<date>07-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Monetary Policy Statement (MPS) is a report published by a country's central bank, usually on a quarterly basis, that outlines the bank's monetary policy decisions and the rationale behind those decisions. The MPS typically includes an analysis of the current economic conditions, an assessment of risks and uncertainties, and projections for key economic indicators, such as inflation, employment, and GDP growth.</description>
+	</event>
+	<event>
+		<title>BOJ Policy Rate</title>
+		<currency>JPY</currency>
+		<date>07-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Economy Watchers Sentiment</title>
+		<currency>JPY</currency>
+		<date>08-03-2023</date>
+		<time>12:00am</time>
+		<forecast></forecast>
+		<previous>48.5</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Leading Indicators</title>
+		<currency>JPY</currency>
+		<date>08-03-2023</date>
+		<time>12:00am</time>
+		<forecast></forecast>
+		<previous>97.2%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BOJ Press Conference</title>
+		<currency>JPY</currency>
+		<date>08-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The BOJ Press Conference is a regular press conference held by the Bank of Japan (BOJ) after each policy meeting. The press conference provides an opportunity for the BOJ Governor and other senior officials to communicate the bank's monetary policy decisions, including any changes to interest rates or other policy tools. The press conference can also include updates on the bank's economic outlook, inflation forecasts, and other important indicators.</description>
+	</event>
+	<event>
+		<title>German Industrial Production m/m</title>
+		<currency>EUR</currency>
+		<date>08-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous>-3.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Retail Sales m/m</title>
+		<currency>EUR</currency>
+		<date>08-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous>-5.3%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Retail Sales m/m</title>
+		<currency>EUR</currency>
+		<date>08-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous>-0.2%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final Employment Change q/q</title>
+		<currency>EUR</currency>
+		<date>08-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous>0.4%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Revised GDP q/q</title>
+		<currency>EUR</currency>
+		<date>08-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous>0.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ADP Non-Farm Employment Change</title>
+		<currency>USD</currency>
+		<date>08-03-2023</date>
+		<time>8:15am</time>
+		<forecast></forecast>
+		<previous>106K</previous>
+		<impact>High</impact>
+		<description>The ADP Non-Farm Employment Change is a monthly report published by the US-based payroll processing company ADP that provides an estimate of the change in non-farm private sector employment during the previous month. The report is based on actual payroll data from over 400,000 US businesses and provides a useful early indication of the official non-farm payroll figures, which are released by the US Bureau of Labor Statistics (BLS) later in the month.</description>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<currency>CAD</currency>
+		<date>08-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous>-0.2B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<currency>USD</currency>
+		<date>08-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous>-67.4B</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BOC Rate Statement</title>
+		<currency>CAD</currency>
+		<date>08-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The BOC Rate Statement is a regular announcement released by the Bank of Canada (BOC) following its policy meetings. The statement provides an overview of the bank's decision regarding the overnight interest rate, which is the interest rate at which major financial institutions borrow and lend overnight funds among themselves.</description>
+	</event>
+	<event>
+		<title>Overnight Rate</title>
+		<currency>CAD</currency>
+		<date>08-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous>4.50%</previous>
+		<impact>High</impact>
+		<description>The Overnight Rate is the interest rate at which major financial institutions borrow and lend overnight funds among themselves. The Overnight Rate is a key benchmark interest rate in many financial markets and is set by the central bank of the respective country. Changes in the Overnight Rate can have significant impacts on other interest rates, exchange rates, and financial markets.</description>
+	</event>
+	<event>
+		<title>JOLTS Job Openings</title>
+		<currency>USD</currency>
+		<date>08-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous>11.01M</previous>
+		<impact>High</impact>
+		<description>The JOLTS (Job Openings and Labor Turnover Survey) Job Openings report is a monthly release from the US Bureau of Labor Statistics (BLS) that provides an estimate of the number of job openings in the US economy during the previous month. The report includes data on job openings in various sectors of the economy, as well as information on hires, quits, and layoffs.</description>
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<currency>USD</currency>
+		<date>08-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<currency>USD</currency>
+		<date>08-03-2023</date>
+		<time>1:01pm</time>
+		<forecast></forecast>
+		<previous>3.61|2.7</previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Beige Book</title>
+		<currency>USD</currency>
+		<date>08-03-2023</date>
+		<time>2:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final GDP Price Index y/y</title>
+		<currency>JPY</currency>
+		<date>08-03-2023</date>
+		<time>6:50pm</time>
+		<forecast></forecast>
+		<previous>1.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final GDP q/q</title>
+		<currency>JPY</currency>
+		<date>08-03-2023</date>
+		<time>6:50pm</time>
+		<forecast></forecast>
+		<previous>0.2%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>M2 Money Stock y/y</title>
+		<currency>JPY</currency>
+		<date>08-03-2023</date>
+		<time>6:50pm</time>
+		<forecast></forecast>
+		<previous>2.7%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>RICS House Price Balance</title>
+		<currency>GBP</currency>
+		<date>08-03-2023</date>
+		<time>7:01pm</time>
+		<forecast></forecast>
+		<previous>-47%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CPI y/y</title>
+		<currency>CNY</currency>
+		<date>08-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous>2.1%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>PPI y/y</title>
+		<currency>CNY</currency>
+		<date>08-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous>-0.8%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Prelim Machine Tool Orders y/y</title>
+		<currency>JPY</currency>
+		<date>09-03-2023</date>
+		<time>1:00am</time>
+		<forecast></forecast>
+		<previous>-9.7%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Final Private Payrolls q/q</title>
+		<currency>EUR</currency>
+		<date>09-03-2023</date>
+		<time>1:30am</time>
+		<forecast></forecast>
+		<previous>0.0%</previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Industrial Production m/m</title>
+		<currency>EUR</currency>
+		<date>09-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Challenger Job Cuts y/y</title>
+		<currency>USD</currency>
+		<date>09-03-2023</date>
+		<time>7:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<currency>USD</currency>
+		<date>09-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<currency>USD</currency>
+		<date>09-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>30-y Bond Auction</title>
+		<currency>USD</currency>
+		<date>09-03-2023</date>
+		<time>1:01pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BusinessNZ Manufacturing Index</title>
+		<currency>NZD</currency>
+		<date>09-03-2023</date>
+		<time>4:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Manufacturing Sales q/q</title>
+		<currency>NZD</currency>
+		<date>09-03-2023</date>
+		<time>4:45pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>PPI y/y</title>
+		<currency>JPY</currency>
+		<date>09-03-2023</date>
+		<time>6:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Tertiary Industry Activity m/m</title>
+		<currency>JPY</currency>
+		<date>09-03-2023</date>
+		<time>11:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Final CPI m/m</title>
+		<currency>EUR</currency>
+		<date>10-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German WPI m/m</title>
+		<currency>EUR</currency>
+		<date>10-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>GDP m/m</title>
+		<currency>GBP</currency>
+		<date>10-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Gross Domestic Product (GDP) announcement is an important economic indicator that measures the broadest level of economic activity and serves as the primary gauge of the economy's health. As GDP increases, it typically signals economic growth, which can have a positive impact on the markets. Conversely, a decline in GDP can indicate an economic downturn and negatively affect the markets.</description>
+	</event>
+	<event>
+		<title>Construction Output m/m</title>
+		<currency>GBP</currency>
+		<date>10-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Goods Trade Balance</title>
+		<currency>GBP</currency>
+		<date>10-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Index of Services 3m/3m</title>
+		<currency>GBP</currency>
+		<date>10-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Industrial Production m/m</title>
+		<currency>GBP</currency>
+		<date>10-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Manufacturing Production m/m</title>
+		<currency>GBP</currency>
+		<date>10-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>M2 Money Supply y/y</title>
+		<currency>CNY</currency>
+		<date>10-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>New Loans</title>
+		<currency>CNY</currency>
+		<date>10-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Consumer Inflation Expectations</title>
+		<currency>GBP</currency>
+		<date>10-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German 10-y Bond Auction</title>
+		<currency>EUR</currency>
+		<date>10-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>NIESR GDP Estimate</title>
+		<currency>GBP</currency>
+		<date>10-03-2023</date>
+		<time>8:03am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Employment Change</title>
+		<currency>CAD</currency>
+		<date>10-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>CAD</currency>
+		<date>10-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
+	</event>
+	<event>
+		<title>Capacity Utilization Rate</title>
+		<currency>CAD</currency>
+		<date>10-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Average Hourly Earnings m/m</title>
+		<currency>USD</currency>
+		<date>10-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>Average Hourly Earnings is a report published by the United States that shows the percentage change in average hourly earnings for all employees on private nonfarm payrolls in the country. The report can provide insights into the level of wage growth in the US economy, which can impact consumer spending and inflation.</description>
+	</event>
+	<event>
+		<title>Non-Farm Employment Change</title>
+		<currency>USD</currency>
+		<date>10-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>USD</currency>
+		<date>10-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
+	</event>
+	<event>
+		<title>Federal Budget Balance</title>
+		<currency>USD</currency>
+		<date>10-03-2023</date>
+		<time>2:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title/>
+		<currency></currency>
+		<date>11-03-2023</date>
+		<time>2:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact></impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Daylight Saving Time Shift</title>
+		<currency>CAD</currency>
+		<date>12-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Holiday</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Daylight Saving Time Shift</title>
+		<currency>USD</currency>
+		<date>12-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Holiday</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BusinessNZ Services Index</title>
+		<currency>NZD</currency>
+		<date>12-03-2023</date>
+		<time>5:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>FPI m/m</title>
+		<currency>NZD</currency>
+		<date>12-03-2023</date>
+		<time>5:45pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BSI Manufacturing Index</title>
+		<currency>JPY</currency>
+		<date>12-03-2023</date>
+		<time>7:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Final CPI m/m</title>
+		<currency>EUR</currency>
+		<date>13-03-2023</date>
+		<time>3:45am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>SECO Economic Forecasts</title>
+		<currency>CHF</currency>
+		<date>13-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Eurogroup Meetings</title>
+		<currency>EUR</currency>
+		<date>13-03-2023</date>
+		<time>All Day</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Visitor Arrivals m/m</title>
+		<currency>NZD</currency>
+		<date>13-03-2023</date>
+		<time>5:45pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Westpac Consumer Sentiment</title>
+		<currency>AUD</currency>
+		<date>13-03-2023</date>
+		<time>7:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>NAB Business Confidence</title>
+		<currency>AUD</currency>
+		<date>13-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Revised Industrial Production m/m</title>
+		<currency>JPY</currency>
+		<date>14-03-2023</date>
+		<time>12:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Claimant Count Change</title>
+		<currency>GBP</currency>
+		<date>14-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>Claimant Count Change is a monthly report published by the United Kingdom's Office for National Statistics (ONS), which shows the net change in the number of people claiming unemployment-related benefits during the previous month. The report can provide insights into the health of the UK labor market, as well as broader economic trends.</description>
+	</event>
+	<event>
+		<title>Average Earnings Index 3m/y</title>
+		<currency>GBP</currency>
+		<date>14-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>GBP</currency>
+		<date>14-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>PPI m/m</title>
+		<currency>CHF</currency>
+		<date>14-03-2023</date>
+		<time>3:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German ZEW Economic Sentiment</title>
+		<currency>EUR</currency>
+		<date>14-03-2023</date>
+		<time>6:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ZEW Economic Sentiment</title>
+		<currency>EUR</currency>
+		<date>14-03-2023</date>
+		<time>6:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>NFIB Small Business Index</title>
+		<currency>USD</currency>
+		<date>14-03-2023</date>
+		<time>6:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ECOFIN Meetings</title>
+		<currency>EUR</currency>
+		<date>14-03-2023</date>
+		<time>All Day</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<currency>GBP</currency>
+		<date>14-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Manufacturing Sales m/m</title>
+		<currency>CAD</currency>
+		<date>14-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CPI m/m</title>
+		<currency>USD</currency>
+		<date>14-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>CPI y/y</title>
+		<currency>USD</currency>
+		<date>14-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>Core CPI m/m</title>
+		<currency>USD</currency>
+		<date>14-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>CB Leading Index m/m</title>
+		<currency>GBP</currency>
+		<date>14-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Current Account</title>
+		<currency>NZD</currency>
+		<date>14-03-2023</date>
+		<time>5:45pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Monetary Policy Meeting Minutes</title>
+		<currency>JPY</currency>
+		<date>14-03-2023</date>
+		<time>7:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Foreign Direct Investment ytd/y</title>
+		<currency>CNY</currency>
+		<date>15-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Quarterly Unemployment Rate</title>
+		<currency>EUR</currency>
+		<date>15-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Trade Balance</title>
+		<currency>EUR</currency>
+		<date>15-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Industrial Production m/m</title>
+		<currency>EUR</currency>
+		<date>15-03-2023</date>
+		<time>6:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Housing Starts</title>
+		<currency>CAD</currency>
+		<date>15-03-2023</date>
+		<time>8:15am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Core PPI m/m</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Producer Price Index (PPI) is an economic indicator that measures the average changes in prices received by domestic producers for their goods and services over time. PPI announcements can provide insight into future inflation trends as producers' price changes can impact the prices of final goods and services, affecting consumers.</description>
+	</event>
+	<event>
+		<title>Core Retail Sales m/m</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>Core Retail Sales is a monthly report published by the United States that shows the change in the total value of sales at the retail level, excluding automobiles and gas stations. The report can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
+	</event>
+	<event>
+		<title>Empire State Manufacturing Index</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Empire State Manufacturing Index is a monthly report published by the Federal Reserve Bank of New York that provides insights into manufacturing activity in the state of New York. The report is based on a survey of manufacturing executives and can provide insights into broader economic trends in the manufacturing sector.</description>
+	</event>
+	<event>
+		<title>PPI m/m</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Producer Price Index (PPI) is an economic indicator that measures the average changes in prices received by domestic producers for their goods and services over time. PPI announcements can provide insight into future inflation trends as producers' price changes can impact the prices of final goods and services, affecting consumers.</description>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>Retail Sales is a monthly report published by various countries that shows the change in the total value of sales at the retail level. The report can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
+	</event>
+	<event>
+		<title>Annual Budget Release</title>
+		<currency>GBP</currency>
+		<date>15-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Annual Budget Release is a report published by various governments that outlines the government's budget plans for the coming fiscal year. The report can provide insights into government spending priorities and can impact financial markets and broader economic trends.</description>
+	</event>
+	<event>
+		<title>Business Inventories m/m</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>NAHB Housing Market Index</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>TIC Long-Term Purchases</title>
+		<currency>USD</currency>
+		<date>15-03-2023</date>
+		<time>4:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>GDP q/q</title>
+		<currency>NZD</currency>
+		<date>15-03-2023</date>
+		<time>5:45pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Gross Domestic Product (GDP) announcement is an important economic indicator that measures the broadest level of economic activity and serves as the primary gauge of the economy's health. As GDP increases, it typically signals economic growth, which can have a positive impact on the markets. Conversely, a decline in GDP can indicate an economic downturn and negatively affect the markets.</description>
+	</event>
+	<event>
+		<title>Core Machinery Orders m/m</title>
+		<currency>JPY</currency>
+		<date>15-03-2023</date>
+		<time>7:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>MI Inflation Expectations</title>
+		<currency>AUD</currency>
+		<date>15-03-2023</date>
+		<time>8:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Employment Change</title>
+		<currency>AUD</currency>
+		<date>15-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>AUD</currency>
+		<date>15-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>RBA Bulletin</title>
+		<currency>AUD</currency>
+		<date>15-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German 30-y Bond Auction</title>
+		<currency>EUR</currency>
+		<date>16-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Wholesale Sales m/m</title>
+		<currency>CAD</currency>
+		<date>16-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Philly Fed Manufacturing Index</title>
+		<currency>USD</currency>
+		<date>16-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<currency>USD</currency>
+		<date>16-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Building Permits</title>
+		<currency>USD</currency>
+		<date>16-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Housing Starts</title>
+		<currency>USD</currency>
+		<date>16-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Import Prices m/m</title>
+		<currency>USD</currency>
+		<date>16-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Main Refinancing Rate</title>
+		<currency>EUR</currency>
+		<date>16-03-2023</date>
+		<time>9:15am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Main Refinancing Rate is the interest rate at which the European Central Bank (ECB) lends money to commercial banks in the Eurozone. The rate is set by the ECB's Governing Council and is one of the primary tools used by the central bank to implement monetary policy in the Eurozone.</description>
+	</event>
+	<event>
+		<title>Monetary Policy Statement</title>
+		<currency>EUR</currency>
+		<date>16-03-2023</date>
+		<time>9:15am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Monetary Policy Statement (MPS) is a report published by a country's central bank, usually on a quarterly basis, that outlines the bank's monetary policy decisions and the rationale behind those decisions. The MPS typically includes an analysis of the current economic conditions, an assessment of risks and uncertainties, and projections for key economic indicators, such as inflation, employment, and GDP growth.</description>
+	</event>
+	<event>
+		<title>ECB Press Conference</title>
+		<currency>EUR</currency>
+		<date>16-03-2023</date>
+		<time>9:45am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The ECB Press Conference is a regular event where the ECB's President and Vice-President discuss the bank's latest monetary policy decisions and economic outlook. The conference is closely watched by financial markets and can impact the value of the euro, as well as broader economic trends.</description>
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<currency>USD</currency>
+		<date>16-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<currency>JPY</currency>
+		<date>16-03-2023</date>
+		<time>7:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Fixed Asset Investment ytd/y</title>
+		<currency>CNY</currency>
+		<date>16-03-2023</date>
+		<time>10:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Industrial Production y/y</title>
+		<currency>CNY</currency>
+		<date>16-03-2023</date>
+		<time>10:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>NBS Press Conference</title>
+		<currency>CNY</currency>
+		<date>16-03-2023</date>
+		<time>10:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Retail Sales y/y</title>
+		<currency>CNY</currency>
+		<date>16-03-2023</date>
+		<time>10:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>CNY</currency>
+		<date>16-03-2023</date>
+		<time>10:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<currency>CHF</currency>
+		<date>17-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>FPC Meeting Minutes</title>
+		<currency>GBP</currency>
+		<date>17-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>FPC Statement</title>
+		<currency>GBP</currency>
+		<date>17-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final CPI y/y</title>
+		<currency>EUR</currency>
+		<date>17-03-2023</date>
+		<time>6:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final Core CPI y/y</title>
+		<currency>EUR</currency>
+		<date>17-03-2023</date>
+		<time>6:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Foreign Securities Purchases</title>
+		<currency>CAD</currency>
+		<date>17-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>IPPI m/m</title>
+		<currency>CAD</currency>
+		<date>17-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>RMPI m/m</title>
+		<currency>CAD</currency>
+		<date>17-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Capacity Utilization Rate</title>
+		<currency>USD</currency>
+		<date>17-03-2023</date>
+		<time>9:15am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Industrial Production m/m</title>
+		<currency>USD</currency>
+		<date>17-03-2023</date>
+		<time>9:15am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Prelim UoM Consumer Sentiment</title>
+		<currency>USD</currency>
+		<date>17-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Prelim UoM (University of Michigan) Consumer Sentiment survey is a monthly report that measures consumer confidence in the United States. The survey is based on a survey of around 500 households and can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
+	</event>
+	<event>
+		<title>Prelim UoM Inflation Expectations</title>
+		<currency>USD</currency>
+		<date>17-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CB Leading Index m/m</title>
+		<currency>USD</currency>
+		<date>17-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title/>
+		<currency></currency>
+		<date>18-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact></impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BOJ Summary of Opinions</title>
+		<currency>JPY</currency>
+		<date>19-03-2023</date>
+		<time>7:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Rightmove HPI m/m</title>
+		<currency>GBP</currency>
+		<date>19-03-2023</date>
+		<time>8:01pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German PPI m/m</title>
+		<currency>EUR</currency>
+		<date>20-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<currency>EUR</currency>
+		<date>20-03-2023</date>
+		<time>6:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Buba Monthly Report</title>
+		<currency>EUR</currency>
+		<date>20-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CBI Industrial Order Expectations</title>
+		<currency>GBP</currency>
+		<date>20-03-2023</date>
+		<time>7:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Westpac Consumer Sentiment</title>
+		<currency>NZD</currency>
+		<date>20-03-2023</date>
+		<time>4:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<currency>NZD</currency>
+		<date>20-03-2023</date>
+		<time>5:45pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>National Core CPI y/y</title>
+		<currency>JPY</currency>
+		<date>20-03-2023</date>
+		<time>7:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Bank Holiday</title>
+		<currency>JPY</currency>
+		<date>20-03-2023</date>
+		<time>All Day</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Holiday</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Monetary Policy Meeting Minutes</title>
+		<currency>AUD</currency>
+		<date>20-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Flash Manufacturing PMI</title>
+		<currency>JPY</currency>
+		<date>20-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Credit Card Spending y/y</title>
+		<currency>NZD</currency>
+		<date>20-03-2023</date>
+		<time>10:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Public Sector Net Borrowing</title>
+		<currency>GBP</currency>
+		<date>21-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CPI m/m</title>
+		<currency>CAD</currency>
+		<date>21-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>Median CPI y/y</title>
+		<currency>CAD</currency>
+		<date>21-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>Trimmed CPI y/y</title>
+		<currency>CAD</currency>
+		<date>21-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>Common CPI y/y</title>
+		<currency>CAD</currency>
+		<date>21-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Core CPI m/m</title>
+		<currency>CAD</currency>
+		<date>21-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Existing Home Sales</title>
+		<currency>USD</currency>
+		<date>21-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>GDT Price Index</title>
+		<currency>NZD</currency>
+		<date>21-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>MI Leading Index m/m</title>
+		<currency>AUD</currency>
+		<date>21-03-2023</date>
+		<time>7:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CPI y/y</title>
+		<currency>GBP</currency>
+		<date>22-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>Core CPI y/y</title>
+		<currency>GBP</currency>
+		<date>22-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>PPI Input m/m</title>
+		<currency>GBP</currency>
+		<date>22-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>PPI Output m/m</title>
+		<currency>GBP</currency>
+		<date>22-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>RPI y/y</title>
+		<currency>GBP</currency>
+		<date>22-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Current Account</title>
+		<currency>EUR</currency>
+		<date>22-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>HPI y/y</title>
+		<currency>GBP</currency>
+		<date>22-03-2023</date>
+		<time>5:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>NHPI m/m</title>
+		<currency>CAD</currency>
+		<date>22-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CB Leading Index m/m</title>
+		<currency>AUD</currency>
+		<date>22-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<currency>USD</currency>
+		<date>22-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BOC Summary of Deliberations</title>
+		<currency>CAD</currency>
+		<date>22-03-2023</date>
+		<time>1:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>FOMC Economic Projections</title>
+		<currency>USD</currency>
+		<date>22-03-2023</date>
+		<time>2:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Federal Reserve's Federal Open Market Committee (FOMC) meetings play a crucial role in the trading world. During these meetings, committee members vote on the nation's key interest rates which have a significant impact on the economy. FOMC members also use their public engagements to provide hints about future monetary policies, making these updates valuable for traders looking to make informed trading decisions.</description>
+	</event>
+	<event>
+		<title>FOMC Statement</title>
+		<currency>USD</currency>
+		<date>22-03-2023</date>
+		<time>2:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Federal Reserve's Federal Open Market Committee (FOMC) meetings play a crucial role in the trading world. During these meetings, committee members vote on the nation's key interest rates which have a significant impact on the economy. FOMC members also use their public engagements to provide hints about future monetary policies, making these updates valuable for traders looking to make informed trading decisions.</description>
+	</event>
+	<event>
+		<title>Federal Funds Rate</title>
+		<currency>USD</currency>
+		<date>22-03-2023</date>
+		<time>2:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Federal Funds Rate is the interest rate at which commercial banks lend to each other overnight to meet reserve requirements set by the Federal Reserve. The rate is set by the Federal Open Market Committee (FOMC) and is one of the primary tools used by the Federal Reserve to implement monetary policy in the United States. The Federal Funds Rate can impact other interest rates in the economy and can influence broader economic trends.</description>
+	</event>
+	<event>
+		<title>FOMC Press Conference</title>
+		<currency>USD</currency>
+		<date>22-03-2023</date>
+		<time>2:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Federal Reserve's Federal Open Market Committee (FOMC) meetings play a crucial role in the trading world. During these meetings, committee members vote on the nation's key interest rates which have a significant impact on the economy. FOMC members also use their public engagements to provide hints about future monetary policies, making these updates valuable for traders looking to make informed trading decisions.</description>
+	</event>
+	<event>
+		<title>Annual Budget Release</title>
+		<currency>CAD</currency>
+		<date>22-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Flash Manufacturing PMI</title>
+		<currency>EUR</currency>
+		<date>23-03-2023</date>
+		<time>3:15am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Flash Services PMI</title>
+		<currency>EUR</currency>
+		<date>23-03-2023</date>
+		<time>3:15am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Flash Manufacturing PMI</title>
+		<currency>EUR</currency>
+		<date>23-03-2023</date>
+		<time>3:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Flash Services PMI</title>
+		<currency>EUR</currency>
+		<date>23-03-2023</date>
+		<time>3:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German ifo Business Climate</title>
+		<currency>EUR</currency>
+		<date>23-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Flash Manufacturing PMI</title>
+		<currency>EUR</currency>
+		<date>23-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Flash Services PMI</title>
+		<currency>EUR</currency>
+		<date>23-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>SNB Monetary Policy Assessment</title>
+		<currency>CHF</currency>
+		<date>23-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Swiss National Bank (SNB) Monetary Policy Assessment is a report published quarterly that outlines the bank's views on the economy and the policy decisions taken by the bank's governing board. The report can provide insights into the central bank's monetary policy stance and can impact financial markets and broader economic trends.</description>
+	</event>
+	<event>
+		<title>SNB Policy Rate</title>
+		<currency>CHF</currency>
+		<date>23-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The SNB Policy Rate is the interest rate at which the Swiss National Bank lends money to commercial banks in Switzerland. The rate is set by the SNB's Governing Board and is one of the primary tools used by the central bank to implement monetary policy in Switzerland.</description>
+	</event>
+	<event>
+		<title>Flash Manufacturing PMI</title>
+		<currency>GBP</currency>
+		<date>23-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+	</event>
+	<event>
+		<title>Flash Services PMI</title>
+		<currency>GBP</currency>
+		<date>23-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+	</event>
+	<event>
+		<title>SNB Press Conference</title>
+		<currency>CHF</currency>
+		<date>23-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The SNB Press Conference is a regular event where the SNB's Chairman discusses the bank's latest monetary policy decisions and economic outlook. The conference is closely watched by financial markets and can impact the value of the Swiss franc, as well as broader economic trends.</description>
+	</event>
+	<event>
+		<title>CBI Realized Sales</title>
+		<currency>GBP</currency>
+		<date>23-03-2023</date>
+		<time>7:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>MPC Official Bank Rate Votes</title>
+		<currency>GBP</currency>
+		<date>23-03-2023</date>
+		<time>8:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The MPC Official Bank Rate Votes is a report published by the Bank of England that shows the number of votes for and against changes to the bank's official interest rate. The report can provide insights into the bank's monetary policy stance and can impact financial markets and broader economic trends.</description>
+	</event>
+	<event>
+		<title>Monetary Policy Summary</title>
+		<currency>GBP</currency>
+		<date>23-03-2023</date>
+		<time>8:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Monetary Policy Summary is a report published by the Bank of England that outlines the bank's views on the economy and the policy decisions taken by the bank's governing board. The report can provide insights into the bank's monetary policy stance and can impact financial markets and broader economic trends.</description>
+	</event>
+	<event>
+		<title>Official Bank Rate</title>
+		<currency>GBP</currency>
+		<date>23-03-2023</date>
+		<time>8:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Official Bank Rate is the interest rate at which the Bank of England lends money to commercial banks in the UK. The rate is set by the bank's Monetary Policy Committee (MPC) and is one of the primary tools used by the bank to implement monetary policy in the UK.</description>
+	</event>
+	<event>
+		<title>BOE Inflation Letter</title>
+		<currency>GBP</currency>
+		<date>23-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<currency>USD</currency>
+		<date>23-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Current Account</title>
+		<currency>USD</currency>
+		<date>23-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Consumer Confidence</title>
+		<currency>EUR</currency>
+		<date>23-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>New Home Sales</title>
+		<currency>USD</currency>
+		<date>23-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<currency>USD</currency>
+		<date>23-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Flash Manufacturing PMI</title>
+		<currency>AUD</currency>
+		<date>23-03-2023</date>
+		<time>6:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Flash Services PMI</title>
+		<currency>AUD</currency>
+		<date>23-03-2023</date>
+		<time>6:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Tokyo Core CPI y/y</title>
+		<currency>JPY</currency>
+		<date>23-03-2023</date>
+		<time>7:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>GfK Consumer Confidence</title>
+		<currency>GBP</currency>
+		<date>23-03-2023</date>
+		<time>8:01pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BOJ Core CPI y/y</title>
+		<currency>JPY</currency>
+		<date>24-03-2023</date>
+		<time>1:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Import Prices m/m</title>
+		<currency>EUR</currency>
+		<date>24-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<currency>GBP</currency>
+		<date>24-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Core Retail Sales m/m</title>
+		<currency>CAD</currency>
+		<date>24-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<currency>CAD</currency>
+		<date>24-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Core Durable Goods Orders m/m</title>
+		<currency>USD</currency>
+		<date>24-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Durable Goods Orders m/m</title>
+		<currency>USD</currency>
+		<date>24-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Flash Services PMI</title>
+		<currency>USD</currency>
+		<date>24-03-2023</date>
+		<time>9:45am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+	</event>
+	<event>
+		<title>Flash Manufacturing PMI</title>
+		<currency>USD</currency>
+		<date>24-03-2023</date>
+		<time>9:45am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Daylight Saving Time Shift</title>
+		<currency>CHF</currency>
+		<date>25-03-2023</date>
+		<time>9:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Holiday</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Daylight Saving Time Shift</title>
+		<currency>EUR</currency>
+		<date>25-03-2023</date>
+		<time>9:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Holiday</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Daylight Saving Time Shift</title>
+		<currency>GBP</currency>
+		<date>25-03-2023</date>
+		<time>9:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Holiday</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>SPPI y/y</title>
+		<currency>JPY</currency>
+		<date>26-03-2023</date>
+		<time>7:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Consumer Spending m/m</title>
+		<currency>EUR</currency>
+		<date>27-03-2023</date>
+		<time>2:45am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>M3 Money Supply y/y</title>
+		<currency>EUR</currency>
+		<date>27-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Private Loans y/y</title>
+		<currency>EUR</currency>
+		<date>27-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<currency>AUD</currency>
+		<date>27-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BOE Quarterly Bulletin</title>
+		<currency>GBP</currency>
+		<date>28-03-2023</date>
+		<time>7:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Goods Trade Balance</title>
+		<currency>USD</currency>
+		<date>28-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Prelim Wholesale Inventories m/m</title>
+		<currency>USD</currency>
+		<date>28-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>HPI m/m</title>
+		<currency>USD</currency>
+		<date>28-03-2023</date>
+		<time>9:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>S&amp;P/CS Composite-20 HPI y/y</title>
+		<currency>USD</currency>
+		<date>28-03-2023</date>
+		<time>9:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CB Consumer Confidence</title>
+		<currency>USD</currency>
+		<date>28-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The CB Consumer Confidence is a monthly report published by the Conference Board that measures consumer confidence in the United States. The report is based on a survey of around 3,000 households and can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
+	</event>
+	<event>
+		<title>Richmond Manufacturing Index</title>
+		<currency>USD</currency>
+		<date>28-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Prelim Industrial Production m/m</title>
+		<currency>JPY</currency>
+		<date>28-03-2023</date>
+		<time>7:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Retail Sales y/y</title>
+		<currency>JPY</currency>
+		<date>28-03-2023</date>
+		<time>7:50pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>BRC Shop Price Index y/y</title>
+		<currency>GBP</currency>
+		<date>28-03-2023</date>
+		<time>8:01pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CPI y/y</title>
+		<currency>AUD</currency>
+		<date>28-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+	</event>
+	<event>
+		<title>German GfK Consumer Climate</title>
+		<currency>EUR</currency>
+		<date>29-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>French Prelim CPI m/m</title>
+		<currency>EUR</currency>
+		<date>29-03-2023</date>
+		<time>2:45am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Unemployment Change</title>
+		<currency>EUR</currency>
+		<date>29-03-2023</date>
+		<time>3:55am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Credit Suisse Economic Expectations</title>
+		<currency>CHF</currency>
+		<date>29-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Monthly Unemployment Rate</title>
+		<currency>EUR</currency>
+		<date>29-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>M4 Money Supply m/m</title>
+		<currency>GBP</currency>
+		<date>29-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Mortgage Approvals</title>
+		<currency>GBP</currency>
+		<date>29-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Net Lending to Individuals m/m</title>
+		<currency>GBP</currency>
+		<date>29-03-2023</date>
+		<time>4:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian 10-y Bond Auction</title>
+		<currency>EUR</currency>
+		<date>29-03-2023</date>
+		<time>Tentative</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>SNB Quarterly Bulletin</title>
+		<currency>CHF</currency>
+		<date>29-03-2023</date>
+		<time>9:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CB Leading Index m/m</title>
+		<currency>CNY</currency>
+		<date>29-03-2023</date>
+		<time>9:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Pending Home Sales m/m</title>
+		<currency>USD</currency>
+		<date>29-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<currency>USD</currency>
+		<date>29-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Building Consents m/m</title>
+		<currency>NZD</currency>
+		<date>29-03-2023</date>
+		<time>5:45pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>JPY</currency>
+		<date>29-03-2023</date>
+		<time>7:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ANZ Business Confidence</title>
+		<currency>NZD</currency>
+		<date>29-03-2023</date>
+		<time>8:00pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Housing Starts y/y</title>
+		<currency>JPY</currency>
+		<date>30-03-2023</date>
+		<time>1:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Retail Sales m/m</title>
+		<currency>EUR</currency>
+		<date>30-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
 		<title>Nationwide HPI m/m</title>
-		
-		
-		<currency>&lt;![CDATA[GBP]]&gt;</currency>
-		
-		
-		<date>&lt;![CDATA[01-02-2023]]&gt;</date>
+		<currency>GBP</currency>
+		<date>30-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>German Prelim CPI m/m</title>
+		<currency>EUR</currency>
+		<date>30-03-2023</date>
+		<time>All Day</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Retail Sales y/y</title>
+		<currency>CHF</currency>
+		<date>30-03-2023</date>
+		<time>2:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Spanish Flash CPI y/y</title>
+		<currency>EUR</currency>
+		<date>30-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>ECB Economic Bulletin</title>
+		<currency>EUR</currency>
+		<date>30-03-2023</date>
+		<time>4:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Italian Prelim CPI m/m</title>
+		<currency>EUR</currency>
+		<date>30-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final GDP q/q</title>
+		<currency>USD</currency>
+		<date>30-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<currency>USD</currency>
+		<date>30-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final GDP Price Index q/q</title>
+		<currency>USD</currency>
+		<date>30-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<currency>USD</currency>
+		<date>30-03-2023</date>
+		<time>10:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Building Approvals m/m</title>
+		<currency>AUD</currency>
+		<date>30-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Private Sector Credit m/m</title>
+		<currency>AUD</currency>
+		<date>30-03-2023</date>
+		<time>8:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<currency>CNY</currency>
+		<date>30-03-2023</date>
+		<time>9:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Non-Manufacturing PMI</title>
+		<currency>CNY</currency>
+		<date>30-03-2023</date>
+		<time>9:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Current Account</title>
+		<currency>GBP</currency>
+		<date>31-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Final GDP q/q</title>
+		<currency>GBP</currency>
+		<date>31-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Revised Business Investment q/q</title>
+		<currency>GBP</currency>
+		<date>31-03-2023</date>
+		<time>2:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>KOF Economic Barometer</title>
+		<currency>CHF</currency>
+		<date>31-03-2023</date>
+		<time>3:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>CPI Flash Estimate y/y</title>
+		<currency>EUR</currency>
+		<date>31-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Core CPI Flash Estimate y/y</title>
+		<currency>EUR</currency>
+		<date>31-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Prelim Flash GDP q/q</title>
+		<currency>EUR</currency>
+		<date>31-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<currency>EUR</currency>
+		<date>31-03-2023</date>
+		<time>5:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>GDP m/m</title>
+		<currency>CAD</currency>
+		<date>31-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Gross Domestic Product (GDP) announcement is an important economic indicator that measures the broadest level of economic activity and serves as the primary gauge of the economy's health. As GDP increases, it typically signals economic growth, which can have a positive impact on the markets. Conversely, a decline in GDP can indicate an economic downturn and negatively affect the markets.</description>
+	</event>
+	<event>
+		<title>Core PCE Price Index m/m</title>
+		<currency>USD</currency>
+		<date>31-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>High</impact>
+		<description>The Core Personal Consumption Expenditures (PCE) Price Index is a measure of inflation in the United States that excludes the prices of food and energy. The index is closely watched by policymakers and economists as a key indicator of underlying inflationary pressures in the economy. The index is released monthly by the Bureau of Economic Analysis.</description>
+	</event>
+	<event>
+		<title>Personal Income m/m</title>
+		<currency>USD</currency>
+		<date>31-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Personal Spending m/m</title>
+		<currency>USD</currency>
+		<date>31-03-2023</date>
+		<time>8:30am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Chicago PMI</title>
+		<currency>USD</currency>
+		<date>31-03-2023</date>
+		<time>9:45am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Revised UoM Consumer Sentiment</title>
+		<currency>USD</currency>
+		<date>31-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Medium</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Revised UoM Inflation Expectations</title>
+		<currency>USD</currency>
+		<date>31-03-2023</date>
+		<time>10:00am</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<currency>CNY</currency>
+		<date>31-03-2023</date>
+		<time>9:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+	<event>
+		<title>Non-Manufacturing PMI</title>
+		<currency>CNY</currency>
+		<date>31-03-2023</date>
+		<time>9:30pm</time>
+		<forecast></forecast>
+		<previous></previous>
+		<impact>Low</impact>
+		<description></description>
+	</event>
+</monthlyevents>
 		
 		
 		<time>&lt;![CDATA[2:00am]]&gt;</time>
