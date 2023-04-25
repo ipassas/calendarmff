@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
 <row>
     <Symbol Name>AUDCAD</Symbol Name>
     <Symbol Description>Australian Dollar/Canadian Dollar</Symbol Description>
@@ -660,3 +662,5 @@ The value of the USDSGD currency pair is influenced by various factors, includin
 
 The USDSGD currency pair has a relatively low trading volume compared to major currency pairs like EURUSD and USDJPY, and bid-ask spreads may be wider, leading to higher transaction costs for traders. However, it may be less volatile than other minor currency pairs due to the stability of the Singaporean economy and its currency.</Detailed Description>
   </row>
+    
+    </root>
