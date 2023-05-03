@@ -7705,7 +7705,7 @@
         <currency>JPY</currency>
         <date>01-05-2023</date>
         <time>1:00am</time>
-        <forecast/>
+        <forecast>34.7</forecast>
         <previous>33.9</previous>
         <impact>Low</impact>
         <description/>
@@ -7721,22 +7721,12 @@
         <description/>
     </event>
     <event>
-        <title>German Retail Sales m/m</title>
-        <currency>EUR</currency>
-        <date>01-05-2023</date>
-        <time>1st-4th</time>
-        <forecast/>
-        <previous>-1.3%</previous>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
         <title>Commodity Prices y/y</title>
         <currency>AUD</currency>
         <date>01-05-2023</date>
         <time>2:30am</time>
         <forecast/>
-        <previous>-9.1%</previous>
+        <previous>-6.9%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -7785,7 +7775,7 @@
         <currency>CAD</currency>
         <date>01-05-2023</date>
         <time>9:30am</time>
-        <forecast/>
+        <forecast>50.2</forecast>
         <previous>48.6</previous>
         <impact>Low</impact>
         <description/>
@@ -7795,7 +7785,7 @@
         <currency>USD</currency>
         <date>01-05-2023</date>
         <time>9:45am</time>
-        <forecast/>
+        <forecast>50.4</forecast>
         <previous>50.4</previous>
         <impact>Low</impact>
         <description/>
@@ -7805,7 +7795,7 @@
         <currency>USD</currency>
         <date>01-05-2023</date>
         <time>10:00am</time>
-        <forecast/>
+        <forecast>46.8</forecast>
         <previous>46.3</previous>
         <impact>High</impact>
         <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
@@ -7815,7 +7805,7 @@
         <currency>USD</currency>
         <date>01-05-2023</date>
         <time>10:00am</time>
-        <forecast/>
+        <forecast>49.4</forecast>
         <previous>49.2</previous>
         <impact>Medium</impact>
         <description/>
@@ -7825,18 +7815,8 @@
         <currency>USD</currency>
         <date>01-05-2023</date>
         <time>10:00am</time>
-        <forecast/>
-        <previous>-0.1%</previous>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>Loan Officer Survey</title>
-        <currency>USD</currency>
-        <date>01-05-2023</date>
-        <time>Tentative</time>
-        <forecast/>
-        <previous/>
+        <forecast>0.2%</forecast>
+        <previous>-0.3%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -7855,7 +7835,7 @@
         <currency>JPY</currency>
         <date>01-05-2023</date>
         <time>7:50pm</time>
-        <forecast/>
+        <forecast>-1.3%</forecast>
         <previous>-1.0%</previous>
         <impact>Low</impact>
         <description/>
@@ -7881,12 +7861,22 @@
         <description>The RBA Rate Statement is a regular announcement released by the Reserve Bank of Australia following its monthly monetary policy meeting. The statement provides an overview of the bank's decision regarding the official cash rate, which is the interest rate that banks pay to borrow money from the RBA.</description>
     </event>
     <event>
+        <title>German Retail Sales m/m</title>
+        <currency>EUR</currency>
+        <date>02-05-2023</date>
+        <time>2:00am</time>
+        <forecast>0.4%</forecast>
+        <previous>-0.3%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
         <title>Nationwide HPI m/m</title>
         <currency>GBP</currency>
         <date>02-05-2023</date>
         <time>2:00am</time>
-        <forecast/>
-        <previous>-0.8%</previous>
+        <forecast>-0.5%</forecast>
+        <previous>-0.7%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -7895,7 +7885,7 @@
         <currency>CHF</currency>
         <date>02-05-2023</date>
         <time>3:00am</time>
-        <forecast/>
+        <forecast>-22</forecast>
         <previous>-30</previous>
         <impact>Low</impact>
         <description/>
@@ -7905,7 +7895,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>3:15am</time>
-        <forecast/>
+        <forecast>49.8</forecast>
         <previous>51.3</previous>
         <impact>Low</impact>
         <description/>
@@ -7915,7 +7905,7 @@
         <currency>CHF</currency>
         <date>02-05-2023</date>
         <time>3:30am</time>
-        <forecast/>
+        <forecast>47.2</forecast>
         <previous>47.0</previous>
         <impact>Low</impact>
         <description/>
@@ -7925,7 +7915,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>3:45am</time>
-        <forecast/>
+        <forecast>49.4</forecast>
         <previous>51.1</previous>
         <impact>Low</impact>
         <description/>
@@ -7935,7 +7925,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>3:50am</time>
-        <forecast/>
+        <forecast>45.5</forecast>
         <previous>45.5</previous>
         <impact>Low</impact>
         <description/>
@@ -7945,7 +7935,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>3:55am</time>
-        <forecast/>
+        <forecast>44.0</forecast>
         <previous>44.0</previous>
         <impact>Low</impact>
         <description/>
@@ -7955,7 +7945,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>4:00am</time>
-        <forecast/>
+        <forecast>45.5</forecast>
         <previous>45.5</previous>
         <impact>Low</impact>
         <description/>
@@ -7965,7 +7955,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>4:00am</time>
-        <forecast/>
+        <forecast>2.4%</forecast>
         <previous>2.9%</previous>
         <impact>Low</impact>
         <description/>
@@ -7975,7 +7965,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>4:00am</time>
-        <forecast/>
+        <forecast>3.2%</forecast>
         <previous>3.2%</previous>
         <impact>Low</impact>
         <description/>
@@ -7985,7 +7975,7 @@
         <currency>GBP</currency>
         <date>02-05-2023</date>
         <time>4:30am</time>
-        <forecast/>
+        <forecast>46.6</forecast>
         <previous>46.6</previous>
         <impact>Low</impact>
         <description/>
@@ -7995,7 +7985,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>5:00am</time>
-        <forecast/>
+        <forecast>7.0%</forecast>
         <previous>6.9%</previous>
         <impact>Medium</impact>
         <description/>
@@ -8005,7 +7995,7 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>5:00am</time>
-        <forecast/>
+        <forecast>5.6%</forecast>
         <previous>5.7%</previous>
         <impact>Medium</impact>
         <description/>
@@ -8015,8 +8005,8 @@
         <currency>EUR</currency>
         <date>02-05-2023</date>
         <time>5:00am</time>
-        <forecast/>
-        <previous>-0.3%</previous>
+        <forecast>0.3%</forecast>
+        <previous>-0.4%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8035,8 +8025,8 @@
         <currency>USD</currency>
         <date>02-05-2023</date>
         <time>10:00am</time>
-        <forecast/>
-        <previous>9.93M</previous>
+        <forecast>9.74M</forecast>
+        <previous>9.97M</previous>
         <impact>High</impact>
         <description>The JOLTS (Job Openings and Labor Turnover Survey) Job Openings report is a monthly release from the US Bureau of Labor Statistics (BLS) that provides an estimate of the number of job openings in the US economy during the previous month. The report includes data on job openings in various sectors of the economy, as well as information on hires, quits, and layoffs.</description>
     </event>
@@ -8045,8 +8035,8 @@
         <currency>USD</currency>
         <date>02-05-2023</date>
         <time>10:00am</time>
-        <forecast/>
-        <previous>-0.7%</previous>
+        <forecast>1.3%</forecast>
+        <previous>-1.1%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8055,7 +8045,7 @@
         <currency>USD</currency>
         <date>02-05-2023</date>
         <time>All Day</time>
-        <forecast/>
+        <forecast>15.1M</forecast>
         <previous>14.8M</previous>
         <impact>Low</impact>
         <description/>
@@ -8064,9 +8054,9 @@
         <title>GDT Price Index</title>
         <currency>NZD</currency>
         <date>02-05-2023</date>
-        <time>Tentative</time>
+        <time>10:53am</time>
         <forecast/>
-        <previous/>
+        <previous>3.2%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8085,8 +8075,8 @@
         <currency>NZD</currency>
         <date>02-05-2023</date>
         <time>6:45pm</time>
-        <forecast/>
-        <previous>0.2%</previous>
+        <forecast>0.5%</forecast>
+        <previous>0.5%</previous>
         <impact>High</impact>
         <description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
     </event>
@@ -8095,7 +8085,7 @@
         <currency>NZD</currency>
         <date>02-05-2023</date>
         <time>6:45pm</time>
-        <forecast/>
+        <forecast>3.5%</forecast>
         <previous>3.4%</previous>
         <impact>High</impact>
         <description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
@@ -8105,7 +8095,7 @@
         <currency>NZD</currency>
         <date>02-05-2023</date>
         <time>6:45pm</time>
-        <forecast/>
+        <forecast>1.1%</forecast>
         <previous>1.1%</previous>
         <impact>Low</impact>
         <description/>
@@ -8121,22 +8111,22 @@
         <description/>
     </event>
     <event>
+        <title>RBNZ Gov Orr Speaks</title>
+        <currency>NZD</currency>
+        <date>02-05-2023</date>
+        <time>9:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>As the head of the Reserve Bank of New Zealand, the Governor's speeches can be influential in shaping market expectations and sentiment, particularly on matters related to monetary policy and interest rates. During these speeches, the Governor may discuss the RBNZ's economic outlook, provide insights into future policy decisions, or comment on recent economic developments.</description>
+    </event>
+    <event>
         <title>Retail Sales m/m</title>
         <currency>AUD</currency>
         <date>02-05-2023</date>
         <time>9:30pm</time>
-        <forecast/>
+        <forecast>0.2%</forecast>
         <previous>0.2%</previous>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>10-y Bond Auction</title>
-        <currency>JPY</currency>
-        <date>02-05-2023</date>
-        <time>11:35pm</time>
-        <forecast/>
-        <previous/>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8161,22 +8151,12 @@
         <description/>
     </event>
     <event>
-        <title>Spanish Unemployment Change</title>
-        <currency>EUR</currency>
-        <date>03-05-2023</date>
-        <time>3:00am</time>
-        <forecast/>
-        <previous>-48.8K</previous>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
         <title>Italian Monthly Unemployment Rate</title>
         <currency>EUR</currency>
         <date>03-05-2023</date>
         <time>4:00am</time>
-        <forecast/>
-        <previous>8.0%</previous>
+        <forecast>8.0%</forecast>
+        <previous>7.9%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8185,18 +8165,8 @@
         <currency>EUR</currency>
         <date>03-05-2023</date>
         <time>5:00am</time>
-        <forecast/>
+        <forecast>6.6%</forecast>
         <previous>6.6%</previous>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>BOE Quarterly Bulletin</title>
-        <currency>GBP</currency>
-        <date>03-05-2023</date>
-        <time>Tentative</time>
-        <forecast/>
-        <previous/>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8205,8 +8175,8 @@
         <currency>USD</currency>
         <date>03-05-2023</date>
         <time>8:15am</time>
-        <forecast/>
-        <previous>145K</previous>
+        <forecast>148K</forecast>
+        <previous>142K</previous>
         <impact>High</impact>
         <description>The ADP Non-Farm Employment Change is a monthly report published by the US-based payroll processing company ADP that provides an estimate of the change in non-farm private sector employment during the previous month. The report is based on actual payroll data from over 400,000 US businesses and provides a useful early indication of the official non-farm payroll figures, which are released by the US Bureau of Labor Statistics (BLS) later in the month.</description>
     </event>
@@ -8215,7 +8185,7 @@
         <currency>USD</currency>
         <date>03-05-2023</date>
         <time>9:45am</time>
-        <forecast/>
+        <forecast>53.7</forecast>
         <previous>53.7</previous>
         <impact>Low</impact>
         <description/>
@@ -8225,7 +8195,7 @@
         <currency>USD</currency>
         <date>03-05-2023</date>
         <time>10:00am</time>
-        <forecast/>
+        <forecast>51.8</forecast>
         <previous>51.2</previous>
         <impact>High</impact>
         <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
@@ -8235,8 +8205,8 @@
         <currency>USD</currency>
         <date>03-05-2023</date>
         <time>10:30am</time>
-        <forecast/>
-        <previous/>
+        <forecast>-0.5M</forecast>
+        <previous>-5.1M</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8305,7 +8275,7 @@
         <currency>AUD</currency>
         <date>03-05-2023</date>
         <time>9:30pm</time>
-        <forecast/>
+        <forecast>13.00B</forecast>
         <previous>13.87B</previous>
         <impact>Low</impact>
         <description/>
@@ -8315,7 +8285,7 @@
         <currency>CNY</currency>
         <date>03-05-2023</date>
         <time>9:45pm</time>
-        <forecast/>
+        <forecast>50.0</forecast>
         <previous>50.0</previous>
         <impact>Low</impact>
         <description/>
@@ -8325,8 +8295,18 @@
         <currency>EUR</currency>
         <date>04-05-2023</date>
         <time>2:00am</time>
-        <forecast/>
+        <forecast>16.1B</forecast>
         <previous>16.0B</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Spanish Unemployment Change</title>
+        <currency>EUR</currency>
+        <date>04-05-2023</date>
+        <time>3:00am</time>
+        <forecast>-12.4K</forecast>
+        <previous>-48.8K</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8335,7 +8315,7 @@
         <currency>EUR</currency>
         <date>04-05-2023</date>
         <time>3:15am</time>
-        <forecast/>
+        <forecast>59.2</forecast>
         <previous>59.4</previous>
         <impact>Low</impact>
         <description/>
@@ -8345,7 +8325,7 @@
         <currency>EUR</currency>
         <date>04-05-2023</date>
         <time>3:45am</time>
-        <forecast/>
+        <forecast>56.6</forecast>
         <previous>55.7</previous>
         <impact>Low</impact>
         <description/>
@@ -8355,7 +8335,7 @@
         <currency>EUR</currency>
         <date>04-05-2023</date>
         <time>3:50am</time>
-        <forecast/>
+        <forecast>56.3</forecast>
         <previous>56.3</previous>
         <impact>Low</impact>
         <description/>
@@ -8365,7 +8345,7 @@
         <currency>EUR</currency>
         <date>04-05-2023</date>
         <time>3:55am</time>
-        <forecast/>
+        <forecast>55.7</forecast>
         <previous>55.7</previous>
         <impact>Low</impact>
         <description/>
@@ -8375,7 +8355,7 @@
         <currency>EUR</currency>
         <date>04-05-2023</date>
         <time>4:00am</time>
-        <forecast/>
+        <forecast>56.6</forecast>
         <previous>56.6</previous>
         <impact>Low</impact>
         <description/>
@@ -8385,7 +8365,7 @@
         <currency>GBP</currency>
         <date>04-05-2023</date>
         <time>4:30am</time>
-        <forecast/>
+        <forecast>54.9</forecast>
         <previous>54.9</previous>
         <impact>Low</impact>
         <description/>
@@ -8395,7 +8375,7 @@
         <currency>GBP</currency>
         <date>04-05-2023</date>
         <time>4:30am</time>
-        <forecast/>
+        <forecast>0.2%</forecast>
         <previous>-0.4%</previous>
         <impact>Low</impact>
         <description/>
@@ -8405,7 +8385,7 @@
         <currency>GBP</currency>
         <date>04-05-2023</date>
         <time>4:30am</time>
-        <forecast/>
+        <forecast>46K</forecast>
         <previous>44K</previous>
         <impact>Low</impact>
         <description/>
@@ -8415,7 +8395,7 @@
         <currency>GBP</currency>
         <date>04-05-2023</date>
         <time>4:30am</time>
-        <forecast/>
+        <forecast>2.8B</forecast>
         <previous>2.2B</previous>
         <impact>Low</impact>
         <description/>
@@ -8425,18 +8405,8 @@
         <currency>EUR</currency>
         <date>04-05-2023</date>
         <time>5:00am</time>
-        <forecast/>
+        <forecast>-1.4%</forecast>
         <previous>-0.5%</previous>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>Spanish 10-y Bond Auction</title>
-        <currency>EUR</currency>
-        <date>04-05-2023</date>
-        <time>Tentative</time>
-        <forecast/>
-        <previous/>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8446,7 +8416,7 @@
         <date>04-05-2023</date>
         <time>Tentative</time>
         <forecast/>
-        <previous/>
+        <previous>2.70|2.0</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8465,7 +8435,7 @@
         <currency>EUR</currency>
         <date>04-05-2023</date>
         <time>8:15am</time>
-        <forecast/>
+        <forecast>3.75%</forecast>
         <previous>3.50%</previous>
         <impact>High</impact>
         <description>The Main Refinancing Rate is the interest rate at which the European Central Bank (ECB) lends money to commercial banks in the Eurozone. The rate is set by the ECB's Governing Council and is one of the primary tools used by the central bank to implement monetary policy in the Eurozone.</description>
@@ -8485,7 +8455,7 @@
         <currency>CAD</currency>
         <date>04-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>0.3B</forecast>
         <previous>0.4B</previous>
         <impact>Low</impact>
         <description/>
@@ -8495,8 +8465,8 @@
         <currency>USD</currency>
         <date>04-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
-        <previous/>
+        <forecast>239K</forecast>
+        <previous>230K</previous>
         <impact>High</impact>
         <description>Unemployment Claims refer to the number of individuals who have filed for unemployment benefits in a particular period.</description>
     </event>
@@ -8505,7 +8475,7 @@
         <currency>USD</currency>
         <date>04-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>-1.7%</forecast>
         <previous>1.7%</previous>
         <impact>Low</impact>
         <description/>
@@ -8515,7 +8485,7 @@
         <currency>USD</currency>
         <date>04-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>5.6%</forecast>
         <previous>3.2%</previous>
         <impact>Low</impact>
         <description/>
@@ -8525,7 +8495,7 @@
         <currency>USD</currency>
         <date>04-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>-63.7B</forecast>
         <previous>-70.5B</previous>
         <impact>Low</impact>
         <description/>
@@ -8545,19 +8515,9 @@
         <currency>CAD</currency>
         <date>04-05-2023</date>
         <time>10:00am</time>
-        <forecast/>
+        <forecast>59.0</forecast>
         <previous>58.2</previous>
         <impact>Medium</impact>
-        <description/>
-    </event>
-    <event>
-        <title>Mortgage Delinquencies</title>
-        <currency>USD</currency>
-        <date>04-05-2023</date>
-        <time>Tentative</time>
-        <forecast/>
-        <previous/>
-        <impact>Low</impact>
         <description/>
     </event>
     <event>
@@ -8566,29 +8526,19 @@
         <date>04-05-2023</date>
         <time>10:30am</time>
         <forecast/>
-        <previous/>
+        <previous>79B</previous>
         <impact>Low</impact>
         <description/>
     </event>
     <event>
-        <title>Average Cash Earnings y/y</title>
-        <currency>JPY</currency>
+        <title>BOC Gov Macklem Speaks</title>
+        <currency>CAD</currency>
         <date>04-05-2023</date>
-        <time>7:30pm</time>
+        <time>12:50pm</time>
         <forecast/>
         <previous/>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>Household Spending y/y</title>
-        <currency>JPY</currency>
-        <date>04-05-2023</date>
-        <time>7:30pm</time>
-        <forecast/>
-        <previous/>
-        <impact>Low</impact>
-        <description/>
+        <impact>High</impact>
+        <description>Speech by the Governor of the Bank of Canada, which can provide insights into the central bank's monetary policy outlook and economic perspectives.</description>
     </event>
     <event>
         <title>Bank Holiday</title>
@@ -8615,28 +8565,8 @@
         <currency>CNY</currency>
         <date>04-05-2023</date>
         <time>9:45pm</time>
-        <forecast/>
+        <forecast>57.1</forecast>
         <previous>57.8</previous>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>Trade Balance</title>
-        <currency>CNY</currency>
-        <date>04-05-2023</date>
-        <time>Tentative</time>
-        <forecast/>
-        <previous/>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>USD-Denominated Trade Balance</title>
-        <currency>CNY</currency>
-        <date>04-05-2023</date>
-        <time>Tentative</time>
-        <forecast/>
-        <previous/>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8645,7 +8575,7 @@
         <currency>CHF</currency>
         <date>05-05-2023</date>
         <time>1:45am</time>
-        <forecast/>
+        <forecast>1.9%</forecast>
         <previous>1.9%</previous>
         <impact>Low</impact>
         <description/>
@@ -8655,7 +8585,7 @@
         <currency>EUR</currency>
         <date>05-05-2023</date>
         <time>2:00am</time>
-        <forecast/>
+        <forecast>-2.4%</forecast>
         <previous>4.8%</previous>
         <impact>Low</impact>
         <description/>
@@ -8665,7 +8595,7 @@
         <currency>CHF</currency>
         <date>05-05-2023</date>
         <time>2:30am</time>
-        <forecast/>
+        <forecast>0.2%</forecast>
         <previous>0.2%</previous>
         <impact>High</impact>
         <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
@@ -8675,7 +8605,7 @@
         <currency>EUR</currency>
         <date>05-05-2023</date>
         <time>2:45am</time>
-        <forecast/>
+        <forecast>-0.5%</forecast>
         <previous>1.2%</previous>
         <impact>Low</impact>
         <description/>
@@ -8685,18 +8615,8 @@
         <currency>EUR</currency>
         <date>05-05-2023</date>
         <time>2:45am</time>
-        <forecast/>
-        <previous/>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>French Trade Balance</title>
-        <currency>EUR</currency>
-        <date>05-05-2023</date>
-        <time>2:45am</time>
-        <forecast/>
-        <previous/>
+        <forecast>0.2%</forecast>
+        <previous>0.2%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8715,7 +8635,7 @@
         <currency>EUR</currency>
         <date>05-05-2023</date>
         <time>4:00am</time>
-        <forecast/>
+        <forecast>-0.3%</forecast>
         <previous>-0.1%</previous>
         <impact>Low</impact>
         <description/>
@@ -8725,7 +8645,7 @@
         <currency>GBP</currency>
         <date>05-05-2023</date>
         <time>4:30am</time>
-        <forecast/>
+        <forecast>50.9</forecast>
         <previous>50.7</previous>
         <impact>Low</impact>
         <description/>
@@ -8745,7 +8665,7 @@
         <currency>EUR</currency>
         <date>05-05-2023</date>
         <time>5:00am</time>
-        <forecast/>
+        <forecast>-0.2%</forecast>
         <previous>-0.8%</previous>
         <impact>Low</impact>
         <description/>
@@ -8755,7 +8675,7 @@
         <currency>CAD</currency>
         <date>05-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>21.6K</forecast>
         <previous>34.7K</previous>
         <impact>High</impact>
         <description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
@@ -8765,7 +8685,7 @@
         <currency>CAD</currency>
         <date>05-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>5.1%</forecast>
         <previous>5.0%</previous>
         <impact>High</impact>
         <description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
@@ -8775,7 +8695,7 @@
         <currency>USD</currency>
         <date>05-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>0.3%</forecast>
         <previous>0.3%</previous>
         <impact>High</impact>
         <description>Average Hourly Earnings is a report published by the United States that shows the percentage change in average hourly earnings for all employees on private nonfarm payrolls in the country. The report can provide insights into the level of wage growth in the US economy, which can impact consumer spending and inflation.</description>
@@ -8785,7 +8705,7 @@
         <currency>USD</currency>
         <date>05-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>180K</forecast>
         <previous>236K</previous>
         <impact>High</impact>
         <description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
@@ -8795,17 +8715,27 @@
         <currency>USD</currency>
         <date>05-05-2023</date>
         <time>8:30am</time>
-        <forecast/>
+        <forecast>3.6%</forecast>
         <previous>3.5%</previous>
         <impact>High</impact>
         <description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
+    </event>
+    <event>
+        <title>FOMC Member Cook Speaks</title>
+        <currency>USD</currency>
+        <date>05-05-2023</date>
+        <time>1:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
     </event>
     <event>
         <title>Consumer Credit m/m</title>
         <currency>USD</currency>
         <date>05-05-2023</date>
         <time>3:00pm</time>
-        <forecast/>
+        <forecast>17.3B</forecast>
         <previous>15.3B</previous>
         <impact>Low</impact>
         <description/>
@@ -8821,14 +8751,14 @@
         <description/>
     </event>
     <event>
-        <title>Treasury Currency Report</title>
-        <currency>USD</currency>
-        <date>05-05-2023</date>
+        <title/>
+        <currency/>
+        <date>06-05-2023</date>
         <time>Tentative</time>
         <forecast/>
         <previous/>
-        <impact>High</impact>
-        <description>The Treasury Currency Report is a periodic publication by the US Department of Treasury that reviews the currency policies of its major trading partners.</description>
+        <impact>Subscribe</impact>
+        <description/>
     </event>
     <event>
         <title>Monetary Policy Meeting Minutes</title>
@@ -8846,7 +8776,7 @@
         <date>07-05-2023</date>
         <time>9:30pm</time>
         <forecast/>
-        <previous/>
+        <previous>4.0%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8856,17 +8786,7 @@
         <date>07-05-2023</date>
         <time>9:30pm</time>
         <forecast/>
-        <previous/>
-        <impact>Low</impact>
-        <description/>
-    </event>
-    <event>
-        <title>Leading Indicators</title>
-        <currency>JPY</currency>
-        <date>08-05-2023</date>
-        <time>1:00am</time>
-        <forecast/>
-        <previous/>
+        <previous>-1</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8876,7 +8796,7 @@
         <date>08-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>2.0%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8906,7 +8826,7 @@
         <date>08-05-2023</date>
         <time>4:30am</time>
         <forecast/>
-        <previous/>
+        <previous>-8.7</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8915,6 +8835,26 @@
         <currency>USD</currency>
         <date>08-05-2023</date>
         <time>10:00am</time>
+        <forecast/>
+        <previous>0.1%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Mortgage Delinquencies</title>
+        <currency>USD</currency>
+        <date>08-05-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Loan Officer Survey</title>
+        <currency>USD</currency>
+        <date>08-05-2023</date>
+        <time>Tentative</time>
         <forecast/>
         <previous/>
         <impact>Low</impact>
@@ -8926,7 +8866,27 @@
         <date>08-05-2023</date>
         <time>7:01pm</time>
         <forecast/>
-        <previous/>
+        <previous>4.9%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Average Cash Earnings y/y</title>
+        <currency>JPY</currency>
+        <date>08-05-2023</date>
+        <time>7:30pm</time>
+        <forecast/>
+        <previous>0.8%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Household Spending y/y</title>
+        <currency>JPY</currency>
+        <date>08-05-2023</date>
+        <time>7:30pm</time>
+        <forecast/>
+        <previous>1.6%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8936,7 +8896,7 @@
         <date>08-05-2023</date>
         <time>8:30pm</time>
         <forecast/>
-        <previous/>
+        <previous>9.4%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8951,32 +8911,32 @@
         <description/>
     </event>
     <event>
-        <title>CPI y/y</title>
+        <title>Trade Balance</title>
         <currency>CNY</currency>
         <date>08-05-2023</date>
-        <time>9:30pm</time>
+        <time>Tentative</time>
         <forecast/>
-        <previous/>
+        <previous>601B</previous>
         <impact>Low</impact>
         <description/>
     </event>
     <event>
-        <title>PPI y/y</title>
+        <title>USD-Denominated Trade Balance</title>
         <currency>CNY</currency>
         <date>08-05-2023</date>
-        <time>9:30pm</time>
+        <time>Tentative</time>
         <forecast/>
-        <previous/>
+        <previous>88.2B</previous>
         <impact>Low</impact>
         <description/>
     </event>
     <event>
-        <title>Economy Watchers Sentiment</title>
+        <title>10-y Bond Auction</title>
         <currency>JPY</currency>
-        <date>09-05-2023</date>
-        <time>1:00am</time>
+        <date>08-05-2023</date>
+        <time>11:35pm</time>
         <forecast/>
-        <previous/>
+        <previous>0.46|3.8</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -8991,12 +8951,12 @@
         <description/>
     </event>
     <event>
-        <title>Italian Industrial Production m/m</title>
+        <title>French Trade Balance</title>
         <currency>EUR</currency>
         <date>09-05-2023</date>
-        <time>4:00am</time>
+        <time>2:45am</time>
         <forecast/>
-        <previous/>
+        <previous>-9.9B</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9016,7 +8976,7 @@
         <date>09-05-2023</date>
         <time>6:00am</time>
         <forecast/>
-        <previous/>
+        <previous>90.1</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9031,12 +8991,32 @@
         <description/>
     </event>
     <event>
+        <title>Leading Indicators</title>
+        <currency>JPY</currency>
+        <date>10-05-2023</date>
+        <time>1:00am</time>
+        <forecast/>
+        <previous>98.0%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
         <title>German Final CPI m/m</title>
         <currency>EUR</currency>
         <date>10-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>0.4%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Industrial Production m/m</title>
+        <currency>EUR</currency>
+        <date>10-05-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous>-0.2%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9061,6 +9041,16 @@
         <description/>
     </event>
     <event>
+        <title>German 30-y Bond Auction</title>
+        <currency>EUR</currency>
+        <date>10-05-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous>2.31|1.1</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
         <title>German 10-y Bond Auction</title>
         <currency>EUR</currency>
         <date>10-05-2023</date>
@@ -9076,7 +9066,7 @@
         <date>10-05-2023</date>
         <time>8:30am</time>
         <forecast/>
-        <previous/>
+        <previous>8.6%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9086,7 +9076,7 @@
         <date>10-05-2023</date>
         <time>8:30am</time>
         <forecast/>
-        <previous/>
+        <previous>0.1%</previous>
         <impact>High</impact>
         <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
     </event>
@@ -9096,7 +9086,7 @@
         <date>10-05-2023</date>
         <time>8:30am</time>
         <forecast/>
-        <previous/>
+        <previous>5.0%</previous>
         <impact>High</impact>
         <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
     </event>
@@ -9106,7 +9096,7 @@
         <date>10-05-2023</date>
         <time>8:30am</time>
         <forecast/>
-        <previous/>
+        <previous>0.4%</previous>
         <impact>High</impact>
         <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
     </event>
@@ -9126,7 +9116,7 @@
         <date>10-05-2023</date>
         <time>1:01pm</time>
         <forecast/>
-        <previous/>
+        <previous>3.46|2.4</previous>
         <impact>Medium</impact>
         <description/>
     </event>
@@ -9136,7 +9126,7 @@
         <date>10-05-2023</date>
         <time>2:00pm</time>
         <forecast/>
-        <previous/>
+        <previous>-378.1B</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9146,7 +9136,7 @@
         <date>10-05-2023</date>
         <time>6:45pm</time>
         <forecast/>
-        <previous/>
+        <previous>0.8%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9156,7 +9146,7 @@
         <date>10-05-2023</date>
         <time>7:01pm</time>
         <forecast/>
-        <previous/>
+        <previous>-43%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9176,7 +9166,7 @@
         <date>10-05-2023</date>
         <time>7:50pm</time>
         <forecast/>
-        <previous/>
+        <previous>3.0%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9186,7 +9176,7 @@
         <date>10-05-2023</date>
         <time>7:50pm</time>
         <forecast/>
-        <previous/>
+        <previous>1.09T</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9196,7 +9186,27 @@
         <date>10-05-2023</date>
         <time>9:00pm</time>
         <forecast/>
-        <previous/>
+        <previous>4.6%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CPI y/y</title>
+        <currency>CNY</currency>
+        <date>10-05-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous>0.7%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>PPI y/y</title>
+        <currency>CNY</currency>
+        <date>10-05-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous>-2.5%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9211,12 +9221,22 @@
         <description/>
     </event>
     <event>
+        <title>Economy Watchers Sentiment</title>
+        <currency>JPY</currency>
+        <date>11-05-2023</date>
+        <time>1:00am</time>
+        <forecast/>
+        <previous>53.3</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
         <title>GDP m/m</title>
         <currency>GBP</currency>
         <date>11-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>0.0%</previous>
         <impact>High</impact>
         <description>The Gross Domestic Product (GDP) announcement is an important economic indicator that measures the broadest level of economic activity and serves as the primary gauge of the economy's health. As GDP increases, it typically signals economic growth, which can have a positive impact on the markets. Conversely, a decline in GDP can indicate an economic downturn and negatively affect the markets.</description>
     </event>
@@ -9226,7 +9246,7 @@
         <date>11-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>0.1%</previous>
         <impact>Medium</impact>
         <description/>
     </event>
@@ -9236,7 +9256,7 @@
         <date>11-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>2.4%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9246,7 +9266,7 @@
         <date>11-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>-17.5B</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9256,7 +9276,7 @@
         <date>11-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>0.1%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9266,7 +9286,7 @@
         <date>11-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>-0.2%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9276,7 +9296,7 @@
         <date>11-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>0.0%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9286,7 +9306,7 @@
         <date>11-05-2023</date>
         <time>2:00am</time>
         <forecast/>
-        <previous/>
+        <previous>4.8%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9295,6 +9315,16 @@
         <currency>JPY</currency>
         <date>11-05-2023</date>
         <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Spanish 10-y Bond Auction</title>
+        <currency>EUR</currency>
+        <date>11-05-2023</date>
+        <time>Tentative</time>
         <forecast/>
         <previous/>
         <impact>Low</impact>
@@ -9326,7 +9356,7 @@
         <date>11-05-2023</date>
         <time>7:00am</time>
         <forecast/>
-        <previous/>
+        <previous>7-0-2</previous>
         <impact>High</impact>
         <description>The MPC Official Bank Rate Votes is a report published by the Bank of England that shows the number of votes for and against changes to the bank's official interest rate. The report can provide insights into the bank's monetary policy stance and can impact financial markets and broader economic trends.</description>
     </event>
@@ -9346,7 +9376,7 @@
         <date>11-05-2023</date>
         <time>7:00am</time>
         <forecast/>
-        <previous/>
+        <previous>4.25%</previous>
         <impact>High</impact>
         <description>The Official Bank Rate is the interest rate at which the Bank of England lends money to commercial banks in the UK. The rate is set by the bank's Monetary Policy Committee (MPC) and is one of the primary tools used by the bank to implement monetary policy in the UK.</description>
     </event>
@@ -9356,7 +9386,7 @@
         <date>11-05-2023</date>
         <time>8:30am</time>
         <forecast/>
-        <previous/>
+        <previous>-0.1%</previous>
         <impact>High</impact>
         <description>The Producer Price Index (PPI) is an economic indicator that measures the average changes in prices received by domestic producers for their goods and services over time. PPI announcements can provide insight into future inflation trends as producers' price changes can impact the prices of final goods and services, affecting consumers.</description>
     </event>
@@ -9366,7 +9396,7 @@
         <date>11-05-2023</date>
         <time>8:30am</time>
         <forecast/>
-        <previous/>
+        <previous>-0.5%</previous>
         <impact>High</impact>
         <description>The Producer Price Index (PPI) is an economic indicator that measures the average changes in prices received by domestic producers for their goods and services over time. PPI announcements can provide insight into future inflation trends as producers' price changes can impact the prices of final goods and services, affecting consumers.</description>
     </event>
@@ -9386,7 +9416,7 @@
         <date>11-05-2023</date>
         <time>Tentative</time>
         <forecast/>
-        <previous/>
+        <previous>0.1%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9406,7 +9436,7 @@
         <date>11-05-2023</date>
         <time>1:01pm</time>
         <forecast/>
-        <previous/>
+        <previous>3.66|2.4</previous>
         <impact>Medium</impact>
         <description/>
     </event>
@@ -9416,7 +9446,7 @@
         <date>11-05-2023</date>
         <time>6:30pm</time>
         <forecast/>
-        <previous/>
+        <previous>48.1</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9446,7 +9476,7 @@
         <date>11-05-2023</date>
         <time>7:50pm</time>
         <forecast/>
-        <previous/>
+        <previous>2.6%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9456,7 +9486,7 @@
         <date>11-05-2023</date>
         <time>11:00pm</time>
         <forecast/>
-        <previous/>
+        <previous>3.30%</previous>
         <impact>Medium</impact>
         <description/>
     </event>
@@ -9476,7 +9506,7 @@
         <date>12-05-2023</date>
         <time>2:45am</time>
         <forecast/>
-        <previous/>
+        <previous>0.6%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9486,7 +9516,7 @@
         <date>12-05-2023</date>
         <time>8:30am</time>
         <forecast/>
-        <previous/>
+        <previous>-0.6%</previous>
         <impact>Low</impact>
         <description/>
     </event>
@@ -9496,7 +9526,7 @@
         <date>12-05-2023</date>
         <time>10:00am</time>
         <forecast/>
-        <previous/>
+        <previous>63.5</previous>
         <impact>High</impact>
         <description>The Prelim UoM (University of Michigan) Consumer Sentiment survey is a monthly report that measures consumer confidence in the United States. The survey is based on a survey of around 500 households and can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
     </event>
@@ -9506,18 +9536,28 @@
         <date>12-05-2023</date>
         <time>10:00am</time>
         <forecast/>
-        <previous/>
+        <previous>4.6%</previous>
         <impact>Medium</impact>
         <description/>
     </event>
     <event>
-        <title>Revised Industrial Production m/m</title>
-        <currency>JPY</currency>
-        <date>13-05-2023</date>
-        <time>12:30am</time>
+        <title>Treasury Currency Report</title>
+        <currency>USD</currency>
+        <date>12-05-2023</date>
+        <time>Tentative</time>
         <forecast/>
         <previous/>
-        <impact>Low</impact>
+        <impact>High</impact>
+        <description>The Treasury Currency Report is a periodic publication by the US Department of Treasury that reviews the currency policies of its major trading partners.</description>
+    </event>
+    <event>
+        <title/>
+        <currency/>
+        <date>13-05-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Subscribe</impact>
         <description/>
     </event>
     <event>
@@ -9991,6 +10031,16 @@
         <description>A measure of changes in the prices paid by employers for labor, expressed as a percentage, comparing the latest quarter to the previous quarter. It is a key indicator of wage growth and inflationary pressures.</description>
     </event>
     <event>
+        <title>Revised Industrial Production m/m</title>
+        <currency>JPY</currency>
+        <date>17-05-2023</date>
+        <time>12:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
         <title>Trade Balance</title>
         <currency>CHF</currency>
         <date>17-05-2023</date>
@@ -10155,6 +10205,16 @@
         <currency>EUR</currency>
         <date>18-05-2023</date>
         <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>BOE Quarterly Bulletin</title>
+        <currency>GBP</currency>
+        <date>18-05-2023</date>
+        <time>Tentative</time>
         <forecast/>
         <previous/>
         <impact>Low</impact>
@@ -11437,7 +11497,7 @@
         <time>9:45am</time>
         <forecast/>
         <previous/>
-        <impact>Medium</impact>
+        <impact>Low</impact>
         <description/>
     </event>
     <event>
