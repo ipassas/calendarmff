@@ -19460,4 +19460,3454 @@
         <impact>Low</impact>
         <description/>
     </event>
+    <event>
+        <title>Cash Rate</title>
+        <currency>AUD</currency>
+        <date>01-08-2023</date>
+        <time>12:30am</time>
+        <forecast>4.35%</forecast>
+        <previous>4.10%</previous>
+        <impact>High</impact>
+        <description>The cash rate is the interest rate at which banks can borrow or lend funds on an overnight basis with the central bank. In many countries the Reserve Bank is responsible for setting the cash rate. Changes in the cash rate can have significant impacts on the economy and the financial markets.</description>
+    </event>
+    <event>
+        <title>RBA Rate Statement</title>
+        <currency>AUD</currency>
+        <date>01-08-2023</date>
+        <time>12:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The RBA Rate Statement is a regular announcement released by the Reserve Bank of Australia following its monthly monetary policy meeting. The statement provides an overview of the bank's decision regarding the official cash rate, which is the interest rate that banks pay to borrow money from the RBA.</description>
+    </event>
+    <event>
+        <title>Bank Holiday</title>
+        <currency>CHF</currency>
+        <date>01-08-2023</date>
+        <time>All Day</time>
+        <forecast/>
+        <previous/>
+        <impact>Non-economic</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Nationwide HPI m/m</title>
+        <currency>GBP</currency>
+        <date>01-08-2023</date>
+        <time>2:00am</time>
+        <forecast>-0.5%</forecast>
+        <previous>0.1%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Commodity Prices y/y</title>
+        <currency>AUD</currency>
+        <date>01-08-2023</date>
+        <time>2:30am</time>
+        <forecast/>
+        <previous>-21.5%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Spanish Manufacturing PMI</title>
+        <currency>EUR</currency>
+        <date>01-08-2023</date>
+        <time>3:15am</time>
+        <forecast>48.2</forecast>
+        <previous>48.0</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Manufacturing PMI</title>
+        <currency>EUR</currency>
+        <date>01-08-2023</date>
+        <time>3:45am</time>
+        <forecast>44.4</forecast>
+        <previous>43.8</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Final Manufacturing PMI</title>
+        <currency>EUR</currency>
+        <date>01-08-2023</date>
+        <time>3:50am</time>
+        <forecast>44.5</forecast>
+        <previous>44.5</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Final Manufacturing PMI</title>
+        <currency>EUR</currency>
+        <date>01-08-2023</date>
+        <time>3:55am</time>
+        <forecast>38.8</forecast>
+        <previous>38.8</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Unemployment Change</title>
+        <currency>EUR</currency>
+        <date>01-08-2023</date>
+        <time>3:55am</time>
+        <forecast>19K</forecast>
+        <previous>28K</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Manufacturing PMI</title>
+        <currency>EUR</currency>
+        <date>01-08-2023</date>
+        <time>4:00am</time>
+        <forecast>42.7</forecast>
+        <previous>42.7</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Monthly Unemployment Rate</title>
+        <currency>EUR</currency>
+        <date>01-08-2023</date>
+        <time>4:00am</time>
+        <forecast>7.7%</forecast>
+        <previous>7.6%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Manufacturing PMI</title>
+        <currency>GBP</currency>
+        <date>01-08-2023</date>
+        <time>4:30am</time>
+        <forecast>45.0</forecast>
+        <previous>45.0</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>EUR</currency>
+        <date>01-08-2023</date>
+        <time>5:00am</time>
+        <forecast>6.5%</forecast>
+        <previous>6.5%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Manufacturing PMI</title>
+        <currency>CAD</currency>
+        <date>01-08-2023</date>
+        <time>9:30am</time>
+        <forecast/>
+        <previous>48.8</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Manufacturing PMI</title>
+        <currency>USD</currency>
+        <date>01-08-2023</date>
+        <time>9:45am</time>
+        <forecast>49.0</forecast>
+        <previous>49.0</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ISM Manufacturing PMI</title>
+        <currency>USD</currency>
+        <date>01-08-2023</date>
+        <time>10:00am</time>
+        <forecast>46.9</forecast>
+        <previous>46.0</previous>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>JOLTS Job Openings</title>
+        <currency>USD</currency>
+        <date>01-08-2023</date>
+        <time>10:00am</time>
+        <forecast>9.61M</forecast>
+        <previous>9.82M</previous>
+        <impact>High</impact>
+        <description>The JOLTS (Job Openings and Labor Turnover Survey) Job Openings report is a monthly release from the US Bureau of Labor Statistics (BLS) that provides an estimate of the number of job openings in the US economy during the previous month. The report includes data on job openings in various sectors of the economy, as well as information on hires, quits, and layoffs.</description>
+    </event>
+    <event>
+        <title>ISM Manufacturing Prices</title>
+        <currency>USD</currency>
+        <date>01-08-2023</date>
+        <time>10:00am</time>
+        <forecast>43.2</forecast>
+        <previous>41.8</previous>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Construction Spending m/m</title>
+        <currency>USD</currency>
+        <date>01-08-2023</date>
+        <time>10:00am</time>
+        <forecast>0.6%</forecast>
+        <previous>0.9%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Wards Total Vehicle Sales</title>
+        <currency>USD</currency>
+        <date>01-08-2023</date>
+        <time>All Day</time>
+        <forecast>15.6M</forecast>
+        <previous>15.7M</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>GDT Price Index</title>
+        <currency>NZD</currency>
+        <date>01-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous>-1.0%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Employment Change q/q</title>
+        <currency>NZD</currency>
+        <date>01-08-2023</date>
+        <time>6:45pm</time>
+        <forecast>0.6%</forecast>
+        <previous>0.8%</previous>
+        <impact>High</impact>
+        <description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>NZD</currency>
+        <date>01-08-2023</date>
+        <time>6:45pm</time>
+        <forecast>3.5%</forecast>
+        <previous>3.4%</previous>
+        <impact>High</impact>
+        <description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
+    </event>
+    <event>
+        <title>Labor Cost Index q/q</title>
+        <currency>NZD</currency>
+        <date>01-08-2023</date>
+        <time>6:45pm</time>
+        <forecast>1.2%</forecast>
+        <previous>0.9%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Monetary Base y/y</title>
+        <currency>JPY</currency>
+        <date>01-08-2023</date>
+        <time>7:50pm</time>
+        <forecast>-0.7%</forecast>
+        <previous>-1.0%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Monetary Policy Meeting Minutes</title>
+        <currency>JPY</currency>
+        <date>01-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>SECO Consumer Climate</title>
+        <currency>CHF</currency>
+        <date>02-08-2023</date>
+        <time>3:00am</time>
+        <forecast>-25</forecast>
+        <previous>-30</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Spanish Unemployment Change</title>
+        <currency>EUR</currency>
+        <date>02-08-2023</date>
+        <time>3:00am</time>
+        <forecast/>
+        <previous>-50.3K</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Manufacturing PMI</title>
+        <currency>CHF</currency>
+        <date>02-08-2023</date>
+        <time>3:30am</time>
+        <forecast>44.2</forecast>
+        <previous>44.9</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ADP Non-Farm Employment Change</title>
+        <currency>USD</currency>
+        <date>02-08-2023</date>
+        <time>8:15am</time>
+        <forecast>195K</forecast>
+        <previous>497K</previous>
+        <impact>High</impact>
+        <description>The ADP Non-Farm Employment Change is a monthly report published by the US-based payroll processing company ADP that provides an estimate of the change in non-farm private sector employment during the previous month. The report is based on actual payroll data from over 400,000 US businesses and provides a useful early indication of the official non-farm payroll figures, which are released by the US Bureau of Labor Statistics (BLS) later in the month.</description>
+    </event>
+    <event>
+        <title>Crude Oil Inventories</title>
+        <currency>USD</currency>
+        <date>02-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous>-0.6M</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ANZ Commodity Prices m/m</title>
+        <currency>NZD</currency>
+        <date>02-08-2023</date>
+        <time>9:00pm</time>
+        <forecast/>
+        <previous>-2.3%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Trade Balance</title>
+        <currency>AUD</currency>
+        <date>02-08-2023</date>
+        <time>9:30pm</time>
+        <forecast>10.50B</forecast>
+        <previous>11.79B</previous>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Caixin Services PMI</title>
+        <currency>CNY</currency>
+        <date>02-08-2023</date>
+        <time>9:45pm</time>
+        <forecast>52.5</forecast>
+        <previous>53.9</previous>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Trade Balance</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>2:00am</time>
+        <forecast>15.5B</forecast>
+        <previous>14.4B</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CPI m/m</title>
+        <currency>CHF</currency>
+        <date>03-08-2023</date>
+        <time>2:30am</time>
+        <forecast>-0.1%</forecast>
+        <previous>0.1%</previous>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>French Gov Budget Balance</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>2:45am</time>
+        <forecast/>
+        <previous>-107.2B</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Spanish Services PMI</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>3:15am</time>
+        <forecast>53.6</forecast>
+        <previous>53.4</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Services PMI</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>3:45am</time>
+        <forecast>52.2</forecast>
+        <previous>52.2</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Final Services PMI</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>3:50am</time>
+        <forecast>47.4</forecast>
+        <previous>47.4</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Final Services PMI</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>3:55am</time>
+        <forecast>52.0</forecast>
+        <previous>52.0</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Services PMI</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>4:00am</time>
+        <forecast>51.1</forecast>
+        <previous>51.1</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Retail Sales m/m</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>4:00am</time>
+        <forecast>0.2%</forecast>
+        <previous>0.7%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Services PMI</title>
+        <currency>GBP</currency>
+        <date>03-08-2023</date>
+        <time>4:30am</time>
+        <forecast>51.5</forecast>
+        <previous>51.5</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>PPI m/m</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>5:00am</time>
+        <forecast>-0.2%</forecast>
+        <previous>-1.9%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>EU Economic Forecasts</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Spanish 10-y Bond Auction</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous>3.55|1.5</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>OPEC-JMMC Meetings</title>
+        <currency>All</currency>
+        <date>03-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French 10-y Bond Auction</title>
+        <currency>EUR</currency>
+        <date>03-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous>3.04|1.9</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>BOE Monetary Policy Report</title>
+        <currency>GBP</currency>
+        <date>03-08-2023</date>
+        <time>7:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>A report released by the Bank of England that outlines its current monetary policy stance, including interest rate decisions, inflation forecasts, and economic outlook.</description>
+    </event>
+    <event>
+        <title>MPC Official Bank Rate Votes</title>
+        <currency>GBP</currency>
+        <date>03-08-2023</date>
+        <time>7:00am</time>
+        <forecast>7-0-2</forecast>
+        <previous>7-0-2</previous>
+        <impact>High</impact>
+        <description>The MPC Official Bank Rate Votes is a report published by the Bank of England that shows the number of votes for and against changes to the bank's official interest rate. The report can provide insights into the bank's monetary policy stance and can impact financial markets and broader economic trends.</description>
+    </event>
+    <event>
+        <title>Monetary Policy Summary</title>
+        <currency>GBP</currency>
+        <date>03-08-2023</date>
+        <time>7:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Monetary Policy Summary is a report published by the Bank of England that outlines the bank's views on the economy and the policy decisions taken by the bank's governing board. The report can provide insights into the bank's monetary policy stance and can impact financial markets and broader economic trends.</description>
+    </event>
+    <event>
+        <title>Official Bank Rate</title>
+        <currency>GBP</currency>
+        <date>03-08-2023</date>
+        <time>7:00am</time>
+        <forecast>5.25%</forecast>
+        <previous>5.00%</previous>
+        <impact>High</impact>
+        <description>The Official Bank Rate is the interest rate at which the Bank of England lends money to commercial banks in the UK. The rate is set by the bank's Monetary Policy Committee (MPC) and is one of the primary tools used by the bank to implement monetary policy in the UK.</description>
+    </event>
+    <event>
+        <title>BOE Gov Bailey Speaks</title>
+        <currency>GBP</currency>
+        <date>03-08-2023</date>
+        <time>7:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>As the head of the Bank of England, the Governor's speeches can be influential in shaping market expectations and sentiment, particularly on matters related to monetary policy and interest rates. During these speeches, the Governor may discuss the BOE's economic outlook, provide insights into future policy decisions, or comment on recent economic developments.</description>
+    </event>
+    <event>
+        <title>Challenger Job Cuts y/y</title>
+        <currency>USD</currency>
+        <date>03-08-2023</date>
+        <time>7:30am</time>
+        <forecast/>
+        <previous>25.2%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Claims</title>
+        <currency>USD</currency>
+        <date>03-08-2023</date>
+        <time>8:30am</time>
+        <forecast>223K</forecast>
+        <previous>221K</previous>
+        <impact>High</impact>
+        <description>Unemployment Claims refer to the number of individuals who have filed for unemployment benefits in a particular period.</description>
+    </event>
+    <event>
+        <title>Prelim Nonfarm Productivity q/q</title>
+        <currency>USD</currency>
+        <date>03-08-2023</date>
+        <time>8:30am</time>
+        <forecast>1.3%</forecast>
+        <previous>-2.1%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Prelim Unit Labor Costs q/q</title>
+        <currency>USD</currency>
+        <date>03-08-2023</date>
+        <time>8:30am</time>
+        <forecast>2.7%</forecast>
+        <previous>4.2%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Services PMI</title>
+        <currency>USD</currency>
+        <date>03-08-2023</date>
+        <time>9:45am</time>
+        <forecast>52.4</forecast>
+        <previous>52.4</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ISM Services PMI</title>
+        <currency>USD</currency>
+        <date>03-08-2023</date>
+        <time>10:00am</time>
+        <forecast>53.0</forecast>
+        <previous>53.9</previous>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>Factory Orders m/m</title>
+        <currency>USD</currency>
+        <date>03-08-2023</date>
+        <time>10:00am</time>
+        <forecast>0.2%</forecast>
+        <previous>0.3%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Natural Gas Storage</title>
+        <currency>USD</currency>
+        <date>03-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous>16B</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>RBA Monetary Policy Statement</title>
+        <currency>AUD</currency>
+        <date>03-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Factory Orders m/m</title>
+        <currency>EUR</currency>
+        <date>04-08-2023</date>
+        <time>2:00am</time>
+        <forecast>-1.8%</forecast>
+        <previous>6.4%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Industrial Production m/m</title>
+        <currency>EUR</currency>
+        <date>04-08-2023</date>
+        <time>2:45am</time>
+        <forecast>-0.3%</forecast>
+        <previous>1.2%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Prelim Private Payrolls q/q</title>
+        <currency>EUR</currency>
+        <date>04-08-2023</date>
+        <time>2:45am</time>
+        <forecast>0.2%</forecast>
+        <previous>0.4%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Industrial Production m/m</title>
+        <currency>EUR</currency>
+        <date>04-08-2023</date>
+        <time>4:00am</time>
+        <forecast>-0.3%</forecast>
+        <previous>1.6%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Construction PMI</title>
+        <currency>GBP</currency>
+        <date>04-08-2023</date>
+        <time>4:30am</time>
+        <forecast>48.2</forecast>
+        <previous>48.9</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Retail Sales m/m</title>
+        <currency>EUR</currency>
+        <date>04-08-2023</date>
+        <time>5:00am</time>
+        <forecast>0.3%</forecast>
+        <previous>0.0%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>MPC Member Pill Speaks</title>
+        <currency>GBP</currency>
+        <date>04-08-2023</date>
+        <time>7:15am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Employment Change</title>
+        <currency>CAD</currency>
+        <date>04-08-2023</date>
+        <time>8:30am</time>
+        <forecast>15.5K</forecast>
+        <previous>59.9K</previous>
+        <impact>High</impact>
+        <description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>CAD</currency>
+        <date>04-08-2023</date>
+        <time>8:30am</time>
+        <forecast>5.5%</forecast>
+        <previous>5.4%</previous>
+        <impact>High</impact>
+        <description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
+    </event>
+    <event>
+        <title>Average Hourly Earnings m/m</title>
+        <currency>USD</currency>
+        <date>04-08-2023</date>
+        <time>8:30am</time>
+        <forecast>0.3%</forecast>
+        <previous>0.4%</previous>
+        <impact>High</impact>
+        <description>Average Hourly Earnings is a report published by the United States that shows the percentage change in average hourly earnings for all employees on private nonfarm payrolls in the country. The report can provide insights into the level of wage growth in the US economy, which can impact consumer spending and inflation.</description>
+    </event>
+    <event>
+        <title>Non-Farm Employment Change</title>
+        <currency>USD</currency>
+        <date>04-08-2023</date>
+        <time>8:30am</time>
+        <forecast>200K</forecast>
+        <previous>209K</previous>
+        <impact>High</impact>
+        <description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>USD</currency>
+        <date>04-08-2023</date>
+        <time>8:30am</time>
+        <forecast>3.6%</forecast>
+        <previous>3.6%</previous>
+        <impact>High</impact>
+        <description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
+    </event>
+    <event>
+        <title>Ivey PMI</title>
+        <currency>CAD</currency>
+        <date>04-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous>50.2</previous>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title/>
+        <currency/>
+        <date>05-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact/>
+        <description/>
+    </event>
+    <event>
+        <title>Bank Holiday</title>
+        <currency>AUD</currency>
+        <date>06-08-2023</date>
+        <time>All Day</time>
+        <forecast/>
+        <previous/>
+        <impact>Non-economic</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Household Spending y/y</title>
+        <currency>JPY</currency>
+        <date>06-08-2023</date>
+        <time>7:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>BOJ Summary of Opinions</title>
+        <currency>JPY</currency>
+        <date>06-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ANZ Job Advertisements m/m</title>
+        <currency>AUD</currency>
+        <date>06-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Trade Balance</title>
+        <currency>CNY</currency>
+        <date>06-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>USD-Denominated Trade Balance</title>
+        <currency>CNY</currency>
+        <date>06-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Leading Indicators</title>
+        <currency>JPY</currency>
+        <date>07-08-2023</date>
+        <time>1:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Industrial Production m/m</title>
+        <currency>EUR</currency>
+        <date>07-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Halifax HPI m/m</title>
+        <currency>GBP</currency>
+        <date>07-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Foreign Currency Reserves</title>
+        <currency>CHF</currency>
+        <date>07-08-2023</date>
+        <time>3:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Sentix Investor Confidence</title>
+        <currency>EUR</currency>
+        <date>07-08-2023</date>
+        <time>4:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Bank Holiday</title>
+        <currency>CAD</currency>
+        <date>07-08-2023</date>
+        <time>All Day</time>
+        <forecast/>
+        <previous/>
+        <impact>Non-economic</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Consumer Credit m/m</title>
+        <currency>USD</currency>
+        <date>07-08-2023</date>
+        <time>3:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>BRC Retail Sales Monitor y/y</title>
+        <currency>GBP</currency>
+        <date>07-08-2023</date>
+        <time>7:01pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Average Cash Earnings y/y</title>
+        <currency>JPY</currency>
+        <date>07-08-2023</date>
+        <time>7:30pm</time>
+        <forecast/>
+        <previous>2.9%</previous>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Bank Lending y/y</title>
+        <currency>JPY</currency>
+        <date>07-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Current Account</title>
+        <currency>JPY</currency>
+        <date>07-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>M2 Money Stock y/y</title>
+        <currency>JPY</currency>
+        <date>07-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Westpac Consumer Sentiment</title>
+        <currency>AUD</currency>
+        <date>07-08-2023</date>
+        <time>8:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>NAB Business Confidence</title>
+        <currency>AUD</currency>
+        <date>07-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>30-y Bond Auction</title>
+        <currency>JPY</currency>
+        <date>07-08-2023</date>
+        <time>11:35pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Final CPI m/m</title>
+        <currency>EUR</currency>
+        <date>08-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Trade Balance</title>
+        <currency>EUR</currency>
+        <date>08-08-2023</date>
+        <time>2:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>NFIB Small Business Index</title>
+        <currency>USD</currency>
+        <date>08-08-2023</date>
+        <time>6:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Trade Balance</title>
+        <currency>CAD</currency>
+        <date>08-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Trade Balance</title>
+        <currency>USD</currency>
+        <date>08-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Wholesale Inventories m/m</title>
+        <currency>USD</currency>
+        <date>08-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>IBD/TIPP Economic Optimism</title>
+        <currency>USD</currency>
+        <date>08-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CPI y/y</title>
+        <currency>CNY</currency>
+        <date>08-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>PPI y/y</title>
+        <currency>CNY</currency>
+        <date>08-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Inflation Expectations q/q</title>
+        <currency>NZD</currency>
+        <date>08-08-2023</date>
+        <time>11:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Inflation Expectations measure the changes in the anticipated rate of inflation, providing insights into consumer and business perceptions of future price levels and aiding policymakers into formulating effective strategies.</description>
+    </event>
+    <event>
+        <title>Economy Watchers Sentiment</title>
+        <currency>JPY</currency>
+        <date>09-08-2023</date>
+        <time>1:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>CHF</currency>
+        <date>09-08-2023</date>
+        <time>1:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>10-y Bond Auction</title>
+        <currency>GBP</currency>
+        <date>09-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>30-y Bond Auction</title>
+        <currency>GBP</currency>
+        <date>09-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Building Permits m/m</title>
+        <currency>CAD</currency>
+        <date>09-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Crude Oil Inventories</title>
+        <currency>USD</currency>
+        <date>09-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>10-y Bond Auction</title>
+        <currency>USD</currency>
+        <date>09-08-2023</date>
+        <time>1:01pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>RICS House Price Balance</title>
+        <currency>GBP</currency>
+        <date>09-08-2023</date>
+        <time>7:01pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>MI Inflation Expectations</title>
+        <currency>AUD</currency>
+        <date>09-08-2023</date>
+        <time>9:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>RBNZ Statement of Intent</title>
+        <currency>NZD</currency>
+        <date>09-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ECB Economic Bulletin</title>
+        <currency>EUR</currency>
+        <date>10-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>New Loans</title>
+        <currency>CNY</currency>
+        <date>10-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>M2 Money Supply y/y</title>
+        <currency>CNY</currency>
+        <date>10-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German 10-y Bond Auction</title>
+        <currency>EUR</currency>
+        <date>10-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CPI m/m</title>
+        <currency>USD</currency>
+        <date>10-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>CPI y/y</title>
+        <currency>USD</currency>
+        <date>10-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>Core CPI m/m</title>
+        <currency>USD</currency>
+        <date>10-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>Unemployment Claims</title>
+        <currency>USD</currency>
+        <date>10-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Unemployment Claims refer to the number of individuals who have filed for unemployment benefits in a particular period.</description>
+    </event>
+    <event>
+        <title>Mortgage Delinquencies</title>
+        <currency>USD</currency>
+        <date>10-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Natural Gas Storage</title>
+        <currency>USD</currency>
+        <date>10-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>30-y Bond Auction</title>
+        <currency>USD</currency>
+        <date>10-08-2023</date>
+        <time>1:01pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Federal Budget Balance</title>
+        <currency>USD</currency>
+        <date>10-08-2023</date>
+        <time>2:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>BusinessNZ Manufacturing Index</title>
+        <currency>NZD</currency>
+        <date>10-08-2023</date>
+        <time>6:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>FPI m/m</title>
+        <currency>NZD</currency>
+        <date>10-08-2023</date>
+        <time>6:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>PPI y/y</title>
+        <currency>JPY</currency>
+        <date>10-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Bank Holiday</title>
+        <currency>JPY</currency>
+        <date>10-08-2023</date>
+        <time>All Day</time>
+        <forecast/>
+        <previous/>
+        <impact>Non-economic</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German WPI m/m</title>
+        <currency>EUR</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>GDP m/m</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Gross Domestic Product (GDP) announcement is an important economic indicator that measures the broadest level of economic activity and serves as the primary gauge of the economy's health. As GDP increases, it typically signals economic growth, which can have a positive impact on the markets. Conversely, a decline in GDP can indicate an economic downturn and negatively affect the markets.</description>
+    </event>
+    <event>
+        <title>Prelim GDP q/q</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Construction Output m/m</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Goods Trade Balance</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Index of Services 3m/3m</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Industrial Production m/m</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Manufacturing Production m/m</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Prelim Business Investment q/q</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Prelim Machine Tool Orders y/y</title>
+        <currency>JPY</currency>
+        <date>11-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Final CPI m/m</title>
+        <currency>EUR</currency>
+        <date>11-08-2023</date>
+        <time>2:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Core PPI m/m</title>
+        <currency>USD</currency>
+        <date>11-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Producer Price Index (PPI) is an economic indicator that measures the average changes in prices received by domestic producers for their goods and services over time. PPI announcements can provide insight into future inflation trends as producers' price changes can impact the prices of final goods and services, affecting consumers.</description>
+    </event>
+    <event>
+        <title>PPI m/m</title>
+        <currency>USD</currency>
+        <date>11-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Producer Price Index (PPI) is an economic indicator that measures the average changes in prices received by domestic producers for their goods and services over time. PPI announcements can provide insight into future inflation trends as producers' price changes can impact the prices of final goods and services, affecting consumers.</description>
+    </event>
+    <event>
+        <title>NIESR GDP Estimate</title>
+        <currency>GBP</currency>
+        <date>11-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Prelim UoM Consumer Sentiment</title>
+        <currency>USD</currency>
+        <date>11-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Prelim UoM (University of Michigan) Consumer Sentiment survey is a monthly report that measures consumer confidence in the United States. The survey is based on a survey of around 500 households and can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
+    </event>
+    <event>
+        <title>Prelim UoM Inflation Expectations</title>
+        <currency>USD</currency>
+        <date>11-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>BusinessNZ Services Index</title>
+        <currency>NZD</currency>
+        <date>13-08-2023</date>
+        <time>6:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Visitor Arrivals m/m</title>
+        <currency>NZD</currency>
+        <date>13-08-2023</date>
+        <time>6:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>PPI m/m</title>
+        <currency>CHF</currency>
+        <date>14-08-2023</date>
+        <time>2:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Foreign Direct Investment ytd/y</title>
+        <currency>CNY</currency>
+        <date>14-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Prelim GDP Price Index y/y</title>
+        <currency>JPY</currency>
+        <date>14-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Prelim GDP q/q</title>
+        <currency>JPY</currency>
+        <date>14-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Monetary Policy Meeting Minutes</title>
+        <currency>AUD</currency>
+        <date>14-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Monetary policy meeting minutes provide a detailed record of discussions and decisions made by a central bank's monetary policy committee during their regular meetings. </description>
+    </event>
+    <event>
+        <title>Wage Price Index q/q</title>
+        <currency>AUD</currency>
+        <date>14-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>A measure of changes in the prices paid by employers for labor, expressed as a percentage, comparing the latest quarter to the previous quarter. It is a key indicator of wage growth and inflationary pressures.</description>
+    </event>
+    <event>
+        <title>Revised Industrial Production m/m</title>
+        <currency>JPY</currency>
+        <date>15-08-2023</date>
+        <time>12:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Claimant Count Change</title>
+        <currency>GBP</currency>
+        <date>15-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Claimant Count Change is a monthly report published by the United Kingdom's Office for National Statistics (ONS), which shows the net change in the number of people claiming unemployment-related benefits during the previous month. The report can provide insights into the health of the UK labor market, as well as broader economic trends.</description>
+    </event>
+    <event>
+        <title>Average Earnings Index 3m/y</title>
+        <currency>GBP</currency>
+        <date>15-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>GBP</currency>
+        <date>15-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Bank Holiday</title>
+        <currency>EUR</currency>
+        <date>15-08-2023</date>
+        <time>All Day</time>
+        <forecast/>
+        <previous/>
+        <impact>Non-economic</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Bank Holiday</title>
+        <currency>EUR</currency>
+        <date>15-08-2023</date>
+        <time>All Day</time>
+        <forecast/>
+        <previous/>
+        <impact>Non-economic</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Trade Balance</title>
+        <currency>EUR</currency>
+        <date>15-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German ZEW Economic Sentiment</title>
+        <currency>EUR</currency>
+        <date>15-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ZEW Economic Sentiment</title>
+        <currency>EUR</currency>
+        <date>15-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CPI m/m</title>
+        <currency>CAD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>Median CPI y/y</title>
+        <currency>CAD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>Trimmed CPI y/y</title>
+        <currency>CAD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>Common CPI y/y</title>
+        <currency>CAD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Core CPI m/m</title>
+        <currency>CAD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Manufacturing Sales m/m</title>
+        <currency>CAD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Core Retail Sales m/m</title>
+        <currency>USD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Core Retail Sales is a monthly report published by the United States that shows the change in the total value of sales at the retail level, excluding automobiles and gas stations. The report can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
+    </event>
+    <event>
+        <title>Empire State Manufacturing Index</title>
+        <currency>USD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Empire State Manufacturing Index is a monthly report published by the Federal Reserve Bank of New York that provides insights into manufacturing activity in the state of New York. The report is based on a survey of manufacturing executives and can provide insights into broader economic trends in the manufacturing sector.</description>
+    </event>
+    <event>
+        <title>Retail Sales m/m</title>
+        <currency>USD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Retail Sales is a monthly report published by various countries that shows the change in the total value of sales at the retail level. The report can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
+    </event>
+    <event>
+        <title>Import Prices m/m</title>
+        <currency>USD</currency>
+        <date>15-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CB Leading Index m/m</title>
+        <currency>GBP</currency>
+        <date>15-08-2023</date>
+        <time>9:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Business Inventories m/m</title>
+        <currency>USD</currency>
+        <date>15-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>NAHB Housing Market Index</title>
+        <currency>USD</currency>
+        <date>15-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>GDT Price Index</title>
+        <currency>NZD</currency>
+        <date>15-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>TIC Long-Term Purchases</title>
+        <currency>USD</currency>
+        <date>15-08-2023</date>
+        <time>4:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>MI Leading Index m/m</title>
+        <currency>AUD</currency>
+        <date>15-08-2023</date>
+        <time>8:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Industrial Production y/y</title>
+        <currency>CNY</currency>
+        <date>15-08-2023</date>
+        <time>10:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The industrial production y/y (year-over-year) refers to a measure of the change in the output of the industrial sector within an economy compared to the same period in the previous year. </description>
+    </event>
+    <event>
+        <title>Retail Sales y/y</title>
+        <currency>CNY</currency>
+        <date>15-08-2023</date>
+        <time>10:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Fixed Asset Investment ytd/y</title>
+        <currency>CNY</currency>
+        <date>15-08-2023</date>
+        <time>10:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>NBS Press Conference</title>
+        <currency>CNY</currency>
+        <date>15-08-2023</date>
+        <time>10:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>CNY</currency>
+        <date>15-08-2023</date>
+        <time>10:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Official Cash Rate</title>
+        <currency>NZD</currency>
+        <date>15-08-2023</date>
+        <time>10:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The cash rate is the interest rate at which banks can borrow or lend funds on an overnight basis with the central bank. In many countries the Reserve Bank is responsible for setting the cash rate. Changes in the cash rate can have significant impacts on the economy and the financial markets.</description>
+    </event>
+    <event>
+        <title>RBNZ Monetary Policy Statement</title>
+        <currency>NZD</currency>
+        <date>15-08-2023</date>
+        <time>10:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Monetary Policy Statement (MPS) is a report published by a country's central bank, usually on a quarterly basis, that outlines the bank's monetary policy decisions and the rationale behind those decisions. The MPS typically includes an analysis of the current economic conditions, an assessment of risks and uncertainties, and projections for key economic indicators, such as inflation, employment, and GDP growth.</description>
+    </event>
+    <event>
+        <title>RBNZ Rate Statement</title>
+        <currency>NZD</currency>
+        <date>15-08-2023</date>
+        <time>10:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The RBNZ Rate Statement is a release by the Reserve Bank of New Zealand that outlines the central bank's decision on interest rates and its economic outlook.</description>
+    </event>
+    <event>
+        <title>RBNZ Press Conference</title>
+        <currency>NZD</currency>
+        <date>15-08-2023</date>
+        <time>11:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>A conference held by the Reserve Bank of New Zealand after the release of its Monetary Policy Statement, where the Governor and other officials may discuss the bank's policy decisions and answer questions from the media.</description>
+    </event>
+    <event>
+        <title>CPI y/y</title>
+        <currency>GBP</currency>
+        <date>16-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>Core CPI y/y</title>
+        <currency>GBP</currency>
+        <date>16-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>PPI Input m/m</title>
+        <currency>GBP</currency>
+        <date>16-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>PPI Output m/m</title>
+        <currency>GBP</currency>
+        <date>16-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>RPI y/y</title>
+        <currency>GBP</currency>
+        <date>16-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>HPI y/y</title>
+        <currency>GBP</currency>
+        <date>16-08-2023</date>
+        <time>4:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Flash Employment Change q/q</title>
+        <currency>EUR</currency>
+        <date>16-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Flash GDP q/q</title>
+        <currency>EUR</currency>
+        <date>16-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Industrial Production m/m</title>
+        <currency>EUR</currency>
+        <date>16-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German 30-y Bond Auction</title>
+        <currency>EUR</currency>
+        <date>16-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Housing Starts</title>
+        <currency>CAD</currency>
+        <date>16-08-2023</date>
+        <time>8:15am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Wholesale Sales m/m</title>
+        <currency>CAD</currency>
+        <date>16-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Building Permits</title>
+        <currency>USD</currency>
+        <date>16-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Housing Starts</title>
+        <currency>USD</currency>
+        <date>16-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Industrial Production m/m</title>
+        <currency>USD</currency>
+        <date>16-08-2023</date>
+        <time>9:15am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Capacity Utilization Rate</title>
+        <currency>USD</currency>
+        <date>16-08-2023</date>
+        <time>9:15am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Crude Oil Inventories</title>
+        <currency>USD</currency>
+        <date>16-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>FOMC Meeting Minutes</title>
+        <currency>USD</currency>
+        <date>16-08-2023</date>
+        <time>2:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Federal Reserve's Federal Open Market Committee (FOMC) meetings play a crucial role in the trading world. During these meetings, committee members vote on the nation's key interest rates which have a significant impact on the economy. FOMC members also use their public engagements to provide hints about future monetary policies, making these updates valuable for traders looking to make informed trading decisions.</description>
+    </event>
+    <event>
+        <title>PPI Input q/q</title>
+        <currency>NZD</currency>
+        <date>16-08-2023</date>
+        <time>6:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>PPI Output q/q</title>
+        <currency>NZD</currency>
+        <date>16-08-2023</date>
+        <time>6:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Core Machinery Orders m/m</title>
+        <currency>JPY</currency>
+        <date>16-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Employment Change</title>
+        <currency>AUD</currency>
+        <date>16-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Employment Change is a monthly report published by various countries, which shows the net change in the number of people employed in the country during the previous month. It includes data on employment in various sectors of the economy, and can be an important indicator of economic growth or contraction.</description>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>AUD</currency>
+        <date>16-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Unemployment Rate is a monthly report published by various countries that shows the percentage of the labor force that is unemployed and actively seeking work. The Unemployment Rate is a key indicator of the health of the labor market and the overall economy, as it provides insights into the level of job opportunities available to workers.</description>
+    </event>
+    <event>
+        <title>Tertiary Industry Activity m/m</title>
+        <currency>JPY</currency>
+        <date>17-08-2023</date>
+        <time>12:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Trade Balance</title>
+        <currency>CHF</currency>
+        <date>17-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Trade Balance</title>
+        <currency>EUR</currency>
+        <date>17-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Foreign Securities Purchases</title>
+        <currency>CAD</currency>
+        <date>17-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Claims</title>
+        <currency>USD</currency>
+        <date>17-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Unemployment Claims refer to the number of individuals who have filed for unemployment benefits in a particular period.</description>
+    </event>
+    <event>
+        <title>Philly Fed Manufacturing Index</title>
+        <currency>USD</currency>
+        <date>17-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CB Leading Index m/m</title>
+        <currency>USD</currency>
+        <date>17-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Natural Gas Storage</title>
+        <currency>USD</currency>
+        <date>17-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>GfK Consumer Confidence</title>
+        <currency>GBP</currency>
+        <date>17-08-2023</date>
+        <time>7:01pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Trade Balance</title>
+        <currency>JPY</currency>
+        <date>17-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Retail Sales m/m</title>
+        <currency>GBP</currency>
+        <date>18-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Public Sector Net Borrowing</title>
+        <currency>GBP</currency>
+        <date>18-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final CPI y/y</title>
+        <currency>EUR</currency>
+        <date>18-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Core CPI y/y</title>
+        <currency>EUR</currency>
+        <date>18-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>IPPI m/m</title>
+        <currency>CAD</currency>
+        <date>18-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>RMPI m/m</title>
+        <currency>CAD</currency>
+        <date>18-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Trade Balance</title>
+        <currency>NZD</currency>
+        <date>20-08-2023</date>
+        <time>6:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Rightmove HPI m/m</title>
+        <currency>GBP</currency>
+        <date>20-08-2023</date>
+        <time>7:01pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Credit Card Spending y/y</title>
+        <currency>NZD</currency>
+        <date>20-08-2023</date>
+        <time>11:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German PPI m/m</title>
+        <currency>EUR</currency>
+        <date>21-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CBI Industrial Order Expectations</title>
+        <currency>GBP</currency>
+        <date>21-08-2023</date>
+        <time>6:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Buba Monthly Report</title>
+        <currency>EUR</currency>
+        <date>21-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>NHPI m/m</title>
+        <currency>CAD</currency>
+        <date>21-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>National Core CPI y/y</title>
+        <currency>JPY</currency>
+        <date>21-08-2023</date>
+        <time>7:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Flash Manufacturing PMI</title>
+        <currency>JPY</currency>
+        <date>21-08-2023</date>
+        <time>8:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Current Account</title>
+        <currency>EUR</currency>
+        <date>22-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Existing Home Sales</title>
+        <currency>USD</currency>
+        <date>22-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Richmond Manufacturing Index</title>
+        <currency>USD</currency>
+        <date>22-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CB Leading Index m/m</title>
+        <currency>AUD</currency>
+        <date>22-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Retail Sales q/q</title>
+        <currency>NZD</currency>
+        <date>22-08-2023</date>
+        <time>6:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Core Retail Sales q/q</title>
+        <currency>NZD</currency>
+        <date>22-08-2023</date>
+        <time>6:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Flash Manufacturing PMI</title>
+        <currency>AUD</currency>
+        <date>22-08-2023</date>
+        <time>7:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Flash Services PMI</title>
+        <currency>AUD</currency>
+        <date>22-08-2023</date>
+        <time>7:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Flash Manufacturing PMI</title>
+        <currency>EUR</currency>
+        <date>23-08-2023</date>
+        <time>3:15am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>French Flash Services PMI</title>
+        <currency>EUR</currency>
+        <date>23-08-2023</date>
+        <time>3:15am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>German Flash Manufacturing PMI</title>
+        <currency>EUR</currency>
+        <date>23-08-2023</date>
+        <time>3:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>German Flash Services PMI</title>
+        <currency>EUR</currency>
+        <date>23-08-2023</date>
+        <time>3:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>Flash Manufacturing PMI</title>
+        <currency>EUR</currency>
+        <date>23-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Flash Services PMI</title>
+        <currency>EUR</currency>
+        <date>23-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Flash Manufacturing PMI</title>
+        <currency>GBP</currency>
+        <date>23-08-2023</date>
+        <time>4:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>Flash Services PMI</title>
+        <currency>GBP</currency>
+        <date>23-08-2023</date>
+        <time>4:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>Core Retail Sales m/m</title>
+        <currency>CAD</currency>
+        <date>23-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Retail Sales m/m</title>
+        <currency>CAD</currency>
+        <date>23-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Flash Manufacturing PMI</title>
+        <currency>USD</currency>
+        <date>23-08-2023</date>
+        <time>9:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>Flash Services PMI</title>
+        <currency>USD</currency>
+        <date>23-08-2023</date>
+        <time>9:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>Consumer Confidence</title>
+        <currency>EUR</currency>
+        <date>23-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>New Home Sales</title>
+        <currency>USD</currency>
+        <date>23-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Crude Oil Inventories</title>
+        <currency>USD</currency>
+        <date>23-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Import Prices m/m</title>
+        <currency>EUR</currency>
+        <date>24-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CBI Realized Sales</title>
+        <currency>GBP</currency>
+        <date>24-08-2023</date>
+        <time>6:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ECB Monetary Policy Meeting Accounts</title>
+        <currency>EUR</currency>
+        <date>24-08-2023</date>
+        <time>7:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Corporate Profits q/q</title>
+        <currency>CAD</currency>
+        <date>24-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Claims</title>
+        <currency>USD</currency>
+        <date>24-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Unemployment Claims refer to the number of individuals who have filed for unemployment benefits in a particular period.</description>
+    </event>
+    <event>
+        <title>Core Durable Goods Orders m/m</title>
+        <currency>USD</currency>
+        <date>24-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Durable Goods Orders m/m</title>
+        <currency>USD</currency>
+        <date>24-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Belgian NBB Business Climate</title>
+        <currency>EUR</currency>
+        <date>24-08-2023</date>
+        <time>9:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Natural Gas Storage</title>
+        <currency>USD</currency>
+        <date>24-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Jackson Hole Symposium</title>
+        <currency>All</currency>
+        <date>24-08-2023</date>
+        <time>Day 1</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Tokyo Core CPI y/y</title>
+        <currency>JPY</currency>
+        <date>24-08-2023</date>
+        <time>7:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>SPPI y/y</title>
+        <currency>JPY</currency>
+        <date>24-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>BOJ Core CPI y/y</title>
+        <currency>JPY</currency>
+        <date>25-08-2023</date>
+        <time>1:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Final GDP q/q</title>
+        <currency>EUR</currency>
+        <date>25-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German ifo Business Climate</title>
+        <currency>EUR</currency>
+        <date>25-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Revised UoM Consumer Sentiment</title>
+        <currency>USD</currency>
+        <date>25-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Revised UoM (University of Michigan) Consumer Sentiment represents a revised measure of consumer confidence in the economy, reflecting changes in consumers' attitudes and expectations towards their financial well-being and overall economic conditions. </description>
+    </event>
+    <event>
+        <title>Revised UoM Inflation Expectations</title>
+        <currency>USD</currency>
+        <date>25-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Jackson Hole Symposium</title>
+        <currency>All</currency>
+        <date>25-08-2023</date>
+        <time>Day 2</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Jackson Hole Symposium</title>
+        <currency>All</currency>
+        <date>26-08-2023</date>
+        <time>Day 3</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Retail Sales m/m</title>
+        <currency>AUD</currency>
+        <date>27-08-2023</date>
+        <time>8:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Bank Holiday</title>
+        <currency>GBP</currency>
+        <date>28-08-2023</date>
+        <time>All Day</time>
+        <forecast/>
+        <previous/>
+        <impact>Non-economic</impact>
+        <description/>
+    </event>
+    <event>
+        <title>M3 Money Supply y/y</title>
+        <currency>EUR</currency>
+        <date>28-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Private Loans y/y</title>
+        <currency>EUR</currency>
+        <date>28-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CB Leading Index m/m</title>
+        <currency>CNY</currency>
+        <date>28-08-2023</date>
+        <time>9:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German GfK Consumer Climate</title>
+        <currency>EUR</currency>
+        <date>29-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Consumer Spending m/m</title>
+        <currency>EUR</currency>
+        <date>29-08-2023</date>
+        <time>2:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>HPI m/m</title>
+        <currency>USD</currency>
+        <date>29-08-2023</date>
+        <time>9:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>S&amp;P/CS Composite-20 HPI y/y</title>
+        <currency>USD</currency>
+        <date>29-08-2023</date>
+        <time>9:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CB Consumer Confidence</title>
+        <currency>USD</currency>
+        <date>29-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The CB Consumer Confidence is a monthly report published by the Conference Board that measures consumer confidence in the United States. The report is based on a survey of around 3,000 households and can provide insights into consumer spending patterns, which can be an important indicator of broader economic trends.</description>
+    </event>
+    <event>
+        <title>JOLTS Job Openings</title>
+        <currency>USD</currency>
+        <date>29-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The JOLTS (Job Openings and Labor Turnover Survey) Job Openings report is a monthly release from the US Bureau of Labor Statistics (BLS) that provides an estimate of the number of job openings in the US economy during the previous month. The report includes data on job openings in various sectors of the economy, as well as information on hires, quits, and layoffs.</description>
+    </event>
+    <event>
+        <title>Building Consents m/m</title>
+        <currency>NZD</currency>
+        <date>29-08-2023</date>
+        <time>6:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>BRC Shop Price Index y/y</title>
+        <currency>GBP</currency>
+        <date>29-08-2023</date>
+        <time>7:01pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CPI y/y</title>
+        <currency>AUD</currency>
+        <date>29-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>Building Approvals m/m</title>
+        <currency>AUD</currency>
+        <date>29-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Construction Work Done q/q</title>
+        <currency>AUD</currency>
+        <date>29-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Housing Starts y/y</title>
+        <currency>JPY</currency>
+        <date>30-08-2023</date>
+        <time>1:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Retail Sales m/m</title>
+        <currency>EUR</currency>
+        <date>30-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Nationwide HPI m/m</title>
+        <currency>GBP</currency>
+        <date>30-08-2023</date>
+        <time>2:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>German Prelim CPI m/m</title>
+        <currency>EUR</currency>
+        <date>30-08-2023</date>
+        <time>All Day</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>KOF Economic Barometer</title>
+        <currency>CHF</currency>
+        <date>30-08-2023</date>
+        <time>3:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Spanish Flash CPI y/y</title>
+        <currency>EUR</currency>
+        <date>30-08-2023</date>
+        <time>3:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Consumer Price Index (CPI) announcement is an essential economic indicator that affects currency valuation and the overall trading landscape. A significant portion of overall inflation comes from consumer prices, making the CPI announcement an important update for traders to stay informed on.</description>
+    </event>
+    <event>
+        <title>German Unemployment Change</title>
+        <currency>EUR</currency>
+        <date>30-08-2023</date>
+        <time>3:55am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Credit Suisse Economic Expectations</title>
+        <currency>CHF</currency>
+        <date>30-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>M4 Money Supply m/m</title>
+        <currency>GBP</currency>
+        <date>30-08-2023</date>
+        <time>4:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Mortgage Approvals</title>
+        <currency>GBP</currency>
+        <date>30-08-2023</date>
+        <time>4:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Net Lending to Individuals m/m</title>
+        <currency>GBP</currency>
+        <date>30-08-2023</date>
+        <time>4:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Prelim CPI m/m</title>
+        <currency>EUR</currency>
+        <date>30-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian 10-y Bond Auction</title>
+        <currency>EUR</currency>
+        <date>30-08-2023</date>
+        <time>Tentative</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ADP Non-Farm Employment Change</title>
+        <currency>USD</currency>
+        <date>30-08-2023</date>
+        <time>8:15am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The ADP Non-Farm Employment Change is a monthly report published by the US-based payroll processing company ADP that provides an estimate of the change in non-farm private sector employment during the previous month. The report is based on actual payroll data from over 400,000 US businesses and provides a useful early indication of the official non-farm payroll figures, which are released by the US Bureau of Labor Statistics (BLS) later in the month.</description>
+    </event>
+    <event>
+        <title>Prelim GDP q/q</title>
+        <currency>USD</currency>
+        <date>30-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Gross Domestic Product (GDP) announcement is an important economic indicator that measures the broadest level of economic activity and serves as the primary gauge of the economy's health. As GDP increases, it typically signals economic growth, which can have a positive impact on the markets. Conversely, a decline in GDP can indicate an economic downturn and negatively affect the markets.</description>
+    </event>
+    <event>
+        <title>Prelim GDP Price Index q/q</title>
+        <currency>USD</currency>
+        <date>30-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Goods Trade Balance</title>
+        <currency>USD</currency>
+        <date>30-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Prelim Wholesale Inventories m/m</title>
+        <currency>USD</currency>
+        <date>30-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Pending Home Sales m/m</title>
+        <currency>USD</currency>
+        <date>30-08-2023</date>
+        <time>10:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Crude Oil Inventories</title>
+        <currency>USD</currency>
+        <date>30-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>JPY</currency>
+        <date>30-08-2023</date>
+        <time>7:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Prelim Industrial Production m/m</title>
+        <currency>JPY</currency>
+        <date>30-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Retail Sales y/y</title>
+        <currency>JPY</currency>
+        <date>30-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>ANZ Business Confidence</title>
+        <currency>NZD</currency>
+        <date>30-08-2023</date>
+        <time>9:00pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Private Capital Expenditure q/q</title>
+        <currency>AUD</currency>
+        <date>30-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Private Sector Credit m/m</title>
+        <currency>AUD</currency>
+        <date>30-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Manufacturing PMI</title>
+        <currency>CNY</currency>
+        <date>30-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Purchasing Managers' Index (PMI) is an economic indicator that measures the health of the manufacturing sector. It is calculated based on survey responses from purchasing managers at companies in the sector, assessing factors such as new orders, inventory levels, production, and employment.</description>
+    </event>
+    <event>
+        <title>Non-Manufacturing PMI</title>
+        <currency>CNY</currency>
+        <date>30-08-2023</date>
+        <time>9:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Retail Sales y/y</title>
+        <currency>CHF</currency>
+        <date>31-08-2023</date>
+        <time>2:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Prelim CPI m/m</title>
+        <currency>EUR</currency>
+        <date>31-08-2023</date>
+        <time>2:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>French Prelim GDP q/q</title>
+        <currency>EUR</currency>
+        <date>31-08-2023</date>
+        <time>2:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Italian Monthly Unemployment Rate</title>
+        <currency>EUR</currency>
+        <date>31-08-2023</date>
+        <time>4:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>CPI Flash Estimate y/y</title>
+        <currency>EUR</currency>
+        <date>31-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Core CPI Flash Estimate y/y</title>
+        <currency>EUR</currency>
+        <date>31-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Unemployment Rate</title>
+        <currency>EUR</currency>
+        <date>31-08-2023</date>
+        <time>5:00am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Challenger Job Cuts y/y</title>
+        <currency>USD</currency>
+        <date>31-08-2023</date>
+        <time>7:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Current Account</title>
+        <currency>CAD</currency>
+        <date>31-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Core PCE Price Index m/m</title>
+        <currency>USD</currency>
+        <date>31-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>The Core Personal Consumption Expenditures (PCE) Price Index is a measure of inflation in the United States that excludes the prices of food and energy. The index is closely watched by policymakers and economists as a key indicator of underlying inflationary pressures in the economy. The index is released monthly by the Bureau of Economic Analysis.</description>
+    </event>
+    <event>
+        <title>Unemployment Claims</title>
+        <currency>USD</currency>
+        <date>31-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>High</impact>
+        <description>Unemployment Claims refer to the number of individuals who have filed for unemployment benefits in a particular period.</description>
+    </event>
+    <event>
+        <title>Personal Income m/m</title>
+        <currency>USD</currency>
+        <date>31-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Personal Spending m/m</title>
+        <currency>USD</currency>
+        <date>31-08-2023</date>
+        <time>8:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Chicago PMI</title>
+        <currency>USD</currency>
+        <date>31-08-2023</date>
+        <time>9:45am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Natural Gas Storage</title>
+        <currency>USD</currency>
+        <date>31-08-2023</date>
+        <time>10:30am</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Capital Spending q/y</title>
+        <currency>JPY</currency>
+        <date>31-08-2023</date>
+        <time>7:50pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Final Manufacturing PMI</title>
+        <currency>JPY</currency>
+        <date>31-08-2023</date>
+        <time>8:30pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Low</impact>
+        <description/>
+    </event>
+    <event>
+        <title>Caixin Manufacturing PMI</title>
+        <currency>CNY</currency>
+        <date>31-08-2023</date>
+        <time>9:45pm</time>
+        <forecast/>
+        <previous/>
+        <impact>Medium</impact>
+        <description/>
+    </event>
 </monthlyevents>
